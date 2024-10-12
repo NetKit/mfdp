@@ -1,0 +1,18 @@
+version: '3'
+
+dotenv: ['.env']
+
+env:
+  DATABASE_URL: "postgresql+asyncpg://{{.DB_USER}}:{{.DB_PASSWORD}}@localhost/{{.DB_NAME}}"
+  
+tasks:
+  check-migration-ver:
+    desc: "Check if there is no pending migrations"
+    cmds:
+      - alembic check
+  create-migration:
+    desc: "Create a new database migration with a specified name"
+    vars:
+      MIGRATION_NAME: "default_migration"
+    cmds:
+      - alembic revision --autogenerate -m "{{.MIGRATION_NAME}}"

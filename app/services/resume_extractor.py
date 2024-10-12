@@ -1,0 +1,2 @@
+class ResumeExtractor:
+    pass
