@@ -1,0 +1,5639 @@
+2D Designer:
+  казань:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  москва:
+    junior:
+      percentile_1: 667.8986272439282
+      percentile_50: 961.9852164730728
+      percentile_99: 1054.2872228088702
+    senior:
+      percentile_1: 1985.1372756071805
+      percentile_50: 2239.9683210137273
+      percentile_99: 2494.7993664202745
+  рязань:
+    junior:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+  санкт-петербург:
+    senior:
+      percentile_1: 792.5026399155226
+      percentile_50: 818.3738120380146
+      percentile_99: 844.2449841605068
+3D Designer:
+  москва:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    middle:
+      percentile_1: 1500.0
+      percentile_50: 1500.0
+      percentile_99: 1500.0
+    senior:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+  санкт-петербург:
+    junior:
+      percentile_1: 1320.7581837381204
+      percentile_50: 1359.9788806758183
+      percentile_99: 1399.1995776135163
+Backend Developer:
+  алматы:
+    junior:
+      percentile_1: 525.5613951266125
+      percentile_50: 778.9941627370739
+      percentile_99: 1327.8215168574338
+    middle:
+      percentile_1: 948.814890213756
+      percentile_50: 1480.0889092004404
+      percentile_99: 1986.7396497642244
+    senior:
+      percentile_1: 919.3917198113795
+      percentile_50: 1869.5859905689774
+      percentile_99: 2683.8945553501317
+  астана:
+    junior:
+      percentile_1: 778.9941627370739
+      percentile_50: 778.9941627370739
+      percentile_99: 778.9941627370739
+    senior:
+      percentile_1: 4250.0
+      percentile_50: 4250.0
+      percentile_99: 4250.0
+  астрахань:
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  барнаул:
+    middle:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 1283.5269271383315
+  белгород:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    senior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  владивосток:
+    middle:
+      percentile_1: 1816.7898627243926
+      percentile_50: 2877.507919746568
+      percentile_99: 3938.2259767687433
+  волгоград:
+    junior:
+      percentile_1: 687.4340021119325
+      percentile_50: 739.1763463569166
+      percentile_99: 790.9186906019006
+  вологда:
+    junior:
+      percentile_1: 531.9429778247096
+      percentile_50: 725.9767687434003
+      percentile_99: 920.0105596620908
+  воронеж:
+    middle:
+      percentile_1: 2507.9197465681095
+      percentile_50: 2507.9197465681095
+      percentile_99: 2507.9197465681095
+    senior:
+      percentile_1: 2565.9978880675817
+      percentile_50: 2565.9978880675817
+      percentile_99: 2565.9978880675817
+  екатеринбург:
+    junior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    senior:
+      percentile_1: 2382.7877507919748
+      percentile_50: 2719.1129883843714
+      percentile_99: 3055.4382259767685
+  иваново:
+    junior:
+      percentile_1: 607.1805702217529
+      percentile_50: 607.1805702217529
+      percentile_99: 607.1805702217529
+  ижевск:
+    middle:
+      percentile_1: 844.7729672650474
+      percentile_50: 844.7729672650474
+      percentile_99: 844.7729672650474
+  йошкар-ола:
+    senior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  казань:
+    junior:
+      percentile_1: 800.4223864836324
+      percentile_50: 1161.5628299894404
+      percentile_99: 1573.3896515311508
+    middle:
+      percentile_1: 1335.7972544878564
+      percentile_50: 1913.9387539598733
+      percentile_99: 1979.936642027455
+  калининград:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    middle:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  кемерово:
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    senior:
+      percentile_1: 1425.5543822597676
+      percentile_50: 1425.5543822597676
+      percentile_99: 1425.5543822597676
+  киров:
+    junior:
+      percentile_1: 1220.6969376979937
+      percentile_50: 1531.1510031678986
+      percentile_99: 1841.6050686378035
+    middle:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  краснодар:
+    junior:
+      percentile_1: 686.3780359028511
+      percentile_50: 1055.9662090813094
+      percentile_99: 3243.9281942977823
+    middle:
+      percentile_1: 1199.8416050686378
+      percentile_50: 1636.7476240760293
+      percentile_99: 3251.5839493136214
+    senior:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  красноярск:
+    junior:
+      percentile_1: 1130.5438225976768
+      percentile_50: 1550.950369588173
+      percentile_99: 1971.3569165786694
+    middle:
+      percentile_1: 1742.3442449841605
+      percentile_50: 1742.3442449841605
+      percentile_99: 1742.3442449841605
+  курск:
+    middle:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  минск:
+    middle:
+      percentile_1: 1013.4615384615385
+      percentile_50: 2050.0
+      percentile_99: 2302.5384615384614
+    senior:
+      percentile_1: 1505.0
+      percentile_50: 1750.0
+      percentile_99: 1995.0
+  москва:
+    junior:
+      percentile_1: 563.6219640971489
+      percentile_50: 1425.5543822597676
+      percentile_99: 3639.123548046463
+    lead:
+      percentile_1: 2791.7106652587117
+      percentile_50: 3511.0876451953536
+      percentile_99: 3948.7856388595565
+    middle:
+      percentile_1: 866.4202745512143
+      percentile_50: 2111.932418162619
+      percentile_99: 3299.8944033790917
+    senior:
+      percentile_1: 1472.2808870116157
+      percentile_50: 2639.9155227032734
+      percentile_99: 5279.831045406547
+  набережные челны:
+    senior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  нижний новгород:
+    junior:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+    middle:
+      percentile_1: 2006.3357972544877
+      percentile_50: 2006.3357972544877
+      percentile_99: 2006.3357972544877
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  новосибирск:
+    junior:
+      percentile_1: 859.5564941921858
+      percentile_50: 1214.3611404435057
+      percentile_99: 1319.9577613516367
+    middle:
+      percentile_1: 1599.7888067581837
+      percentile_50: 2217.5290390707496
+      percentile_99: 2426.6103484688488
+  омск:
+    junior:
+      percentile_1: 845.8289334741288
+      percentile_50: 897.5712777191129
+      percentile_99: 949.3136219640971
+  оренбург:
+    junior:
+      percentile_1: 580.7814149947202
+      percentile_50: 580.7814149947202
+      percentile_99: 580.7814149947202
+    senior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  пенза:
+    junior:
+      percentile_1: 1478.3526927138332
+      percentile_50: 1478.3526927138332
+      percentile_99: 1478.3526927138332
+  пермь:
+    junior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+    middle:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  ростов:
+    junior:
+      percentile_1: 533.2629355860613
+      percentile_50: 1082.3653643083421
+      percentile_99: 1583.949313621964
+    senior:
+      percentile_1: 3167.898627243928
+      percentile_50: 3167.898627243928
+      percentile_99: 3167.898627243928
+  рязань:
+    senior:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+  самара:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 791.974656810982
+      percentile_99: 1782.4709609292504
+    middle:
+      percentile_1: 728.5931890179514
+      percentile_50: 937.1700105596619
+      percentile_99: 1951.4255543822594
+  санкт-петербург:
+    junior:
+      percentile_1: 604.012671594509
+      percentile_50: 1359.5564941921857
+      percentile_99: 3887.2756071805707
+    middle:
+      percentile_1: 874.8680042238648
+      percentile_50: 1900.7391763463568
+      percentile_99: 3867.4762407602952
+    senior:
+      percentile_1: 1701.1615628299892
+      percentile_50: 2375.923970432946
+      percentile_99: 3896.5153115100316
+  саратов:
+    senior:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+  симферополь:
+    junior:
+      percentile_1: 1267.1594508975713
+      percentile_50: 1267.1594508975713
+      percentile_99: 1267.1594508975713
+    middle:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  смоленск:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  сочи:
+    senior:
+      percentile_1: 1451.9535374868003
+      percentile_50: 1451.9535374868003
+      percentile_99: 1451.9535374868003
+  ставрополь:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 395.987328405491
+      percentile_99: 395.987328405491
+  ташкент:
+    middle:
+      percentile_1: 1189.6757177148193
+      percentile_50: 1714.4826857145551
+      percentile_99: 2239.289653714291
+    senior:
+      percentile_1: 1375.4596000006288
+      percentile_50: 1375.4596000006288
+      percentile_99: 1375.4596000006288
+  тбилиси:
+    middle:
+      percentile_1: 2500.0
+      percentile_50: 2500.0
+      percentile_99: 2500.0
+    senior:
+      percentile_1: 2025.337909186906
+      percentile_50: 4250.0
+      percentile_99: 5034.0
+  тверь:
+    junior:
+      percentile_1: 3167.898627243928
+      percentile_50: 3167.898627243928
+      percentile_99: 3167.898627243928
+  тольятти:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  томск:
+    junior:
+      percentile_1: 643.0834213305175
+      percentile_50: 1108.7645195353748
+      percentile_99: 1212.249208025343
+    senior:
+      percentile_1: 3431.8901795142556
+      percentile_50: 3431.8901795142556
+      percentile_99: 3431.8901795142556
+  тюмень:
+    lead:
+      percentile_1: 554.9762407602956
+      percentile_50: 584.0813093980992
+      percentile_99: 613.1863780359029
+  ульяновск:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  уфа:
+    junior:
+      percentile_1: 660.506863780359
+      percentile_50: 686.3780359028511
+      percentile_99: 1436.6420274551215
+    senior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  хабаровск:
+    junior:
+      percentile_1: 693.7697993664203
+      percentile_50: 1055.9662090813094
+      percentile_99: 1418.1626187961983
+  чебоксары:
+    junior:
+      percentile_1: 712.7771911298838
+      percentile_50: 712.7771911298838
+      percentile_99: 712.7771911298838
+  челябинск:
+    junior:
+      percentile_1: 794.6145723336853
+      percentile_50: 923.9704329461457
+      percentile_99: 1053.3262935586063
+    lead:
+      percentile_1: 1781.9429778247095
+      percentile_50: 1781.9429778247095
+      percentile_99: 1781.9429778247095
+    middle:
+      percentile_1: 1071.8057022175292
+      percentile_50: 1847.9408658922914
+      percentile_99: 1977.2967265047519
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  ярославль:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    middle:
+      percentile_1: 1167.6346356916579
+      percentile_50: 1465.1531151003169
+      percentile_99: 1762.6715945089757
+Business Intelligence (BI) Developer:
+  владивосток:
+    junior:
+      percentile_1: 1267.1594508975713
+      percentile_50: 1267.1594508975713
+      percentile_99: 1267.1594508975713
+  екатеринбург:
+    senior:
+      percentile_1: 1478.3526927138332
+      percentile_50: 1478.3526927138332
+      percentile_99: 1478.3526927138332
+  казань:
+    middle:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  москва:
+    junior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+    lead:
+      percentile_1: 3695.881731784583
+      percentile_50: 3695.881731784583
+      percentile_99: 3695.881731784583
+    senior:
+      percentile_1: 1058.711721224921
+      percentile_50: 1193.2418162618796
+      percentile_99: 1327.7719112988384
+  оренбург:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+Chief Information Officer (CIO):
+  калининград:
+    senior:
+      percentile_1: 4619.852164730729
+      percentile_50: 4619.852164730729
+      percentile_99: 4619.852164730729
+  краснодар:
+    director:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  красноярск:
+    lead:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  москва:
+    director:
+      percentile_1: 3854.2766631467794
+      percentile_50: 3854.2766631467794
+      percentile_99: 3854.2766631467794
+    senior:
+      percentile_1: 1708.5533262935585
+      percentile_50: 2639.9155227032734
+      percentile_99: 3416.050686378036
+  новосибирск:
+    director:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  самара:
+    director:
+      percentile_1: 3431.8901795142556
+      percentile_50: 3431.8901795142556
+      percentile_99: 3431.8901795142556
+  санкт-петербург:
+    middle:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+  томск:
+    lead:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  хабаровск:
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+Chief Technology Officer (CTO):
+  санкт-петербург:
+    senior:
+      percentile_1: 4619.852164730729
+      percentile_50: 4619.852164730729
+      percentile_99: 4619.852164730729
+Computer Vision Engineer:
+  москва:
+    junior:
+      percentile_1: 1019.5353748680042
+      percentile_50: 1821.5417106652585
+      percentile_99: 2623.5480464625134
+Cybersecurity Analyst:
+  москва:
+    lead:
+      percentile_1: 3431.8901795142556
+      percentile_50: 3431.8901795142556
+      percentile_99: 3431.8901795142556
+    senior:
+      percentile_1: 3194.297782470961
+      percentile_50: 3194.297782470961
+      percentile_99: 3194.297782470961
+Data Analyst:
+  алматы:
+    junior:
+      percentile_1: 355.0136064313758
+      percentile_50: 778.9941627370739
+      percentile_99: 2052.389954091277
+    lead:
+      percentile_1: 2596.6472091235796
+      percentile_50: 2596.6472091235796
+      percentile_99: 2596.6472091235796
+    middle:
+      percentile_1: 531.4090446415588
+      percentile_50: 1454.1224371092046
+      percentile_99: 1555.911007706849
+    senior:
+      percentile_1: 1254.6999314485136
+      percentile_50: 1661.8542138390908
+      percentile_99: 2069.0084962296683
+  астана:
+    junior:
+      percentile_1: 452.5436756060575
+      percentile_50: 742.6411018093438
+      percentile_99: 1032.73852801263
+    senior:
+      percentile_1: 784.7067865971458
+      percentile_50: 1064.6253557406676
+      percentile_99: 1344.5439248841894
+  астрахань:
+    junior:
+      percentile_1: 718.0570221752904
+      percentile_50: 718.0570221752904
+      percentile_99: 718.0570221752904
+  барнаул:
+    junior:
+      percentile_1: 771.1193241816262
+      percentile_50: 1042.766631467793
+      percentile_99: 1314.4139387539599
+  белгород:
+    lead:
+      percentile_1: 2824.7096092925026
+      percentile_50: 2824.7096092925026
+      percentile_99: 2824.7096092925026
+    senior:
+      percentile_1: 989.9683210137275
+      percentile_50: 989.9683210137275
+      percentile_99: 989.9683210137275
+  владивосток:
+    junior:
+      percentile_1: 599.1341077085533
+      percentile_50: 1187.961985216473
+      percentile_99: 1960.1372756071803
+    middle:
+      percentile_1: 1121.9640971488911
+      percentile_50: 1121.9640971488911
+      percentile_99: 1121.9640971488911
+  волгоград:
+    junior:
+      percentile_1: 580.7814149947202
+      percentile_50: 580.7814149947202
+      percentile_99: 684.2661034846885
+  воронеж:
+    junior:
+      percentile_1: 482.1805702217529
+      percentile_50: 1187.961985216473
+      percentile_99: 2088.1731784582894
+  екатеринбург:
+    junior:
+      percentile_1: 769.5353748680043
+      percentile_50: 1583.949313621964
+      percentile_99: 3827.8775079197467
+    middle:
+      percentile_1: 1189.2819429778247
+      percentile_50: 1253.959873284055
+      percentile_99: 1318.637803590285
+    senior:
+      percentile_1: 1454.5934530095035
+      percentile_50: 1583.949313621964
+      percentile_99: 1713.3051742344246
+  зеленоград:
+    junior:
+      percentile_1: 1067.8458289334742
+      percentile_50: 1517.9514255543822
+      percentile_99: 1968.0570221752903
+  иваново:
+    junior:
+      percentile_1: 686.3780359028511
+      percentile_50: 686.3780359028511
+      percentile_99: 686.3780359028511
+  ижевск:
+    junior:
+      percentile_1: 823.6536430834212
+      percentile_50: 2375.9239704329457
+      percentile_99: 3928.19429778247
+    lead:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  иркутск:
+    junior:
+      percentile_1: 585.0052798310454
+      percentile_50: 791.974656810982
+      percentile_99: 1102.4287222808869
+  казань:
+    junior:
+      percentile_1: 626.5839493136219
+      percentile_50: 1372.756071805702
+      percentile_99: 2324.445617740232
+    lead:
+      percentile_1: 2270.327349524815
+      percentile_50: 2270.327349524815
+      percentile_99: 2270.327349524815
+    middle:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+    senior:
+      percentile_1: 1029.5670538542765
+      percentile_50: 1029.5670538542765
+      percentile_99: 1029.5670538542765
+  кемерово:
+    junior:
+      percentile_1: 686.3780359028511
+      percentile_50: 686.3780359028511
+      percentile_99: 686.3780359028511
+  киров:
+    junior:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+  краснодар:
+    junior:
+      percentile_1: 608.7645195353748
+      percentile_50: 686.3780359028511
+      percentile_99: 1544.3505807814145
+    lead:
+      percentile_1: 1587.909186906019
+      percentile_50: 1781.9429778247095
+      percentile_99: 1975.9767687434
+    middle:
+      percentile_1: 2243.9281942977823
+      percentile_50: 2243.9281942977823
+      percentile_99: 2243.9281942977823
+    senior:
+      percentile_1: 1029.5670538542765
+      percentile_50: 1029.5670538542765
+      percentile_99: 1029.5670538542765
+  красноярск:
+    junior:
+      percentile_1: 461.98521647307285
+      percentile_50: 461.98521647307285
+      percentile_99: 461.98521647307285
+    senior:
+      percentile_1: 691.5522703273496
+      percentile_50: 1029.5670538542765
+      percentile_99: 1464.8891235480464
+  курск:
+    junior:
+      percentile_1: 1085.0052798310455
+      percentile_50: 2507.91974656811
+      percentile_99: 3930.834213305174
+    lead:
+      percentile_1: 3115.1003167898625
+      percentile_50: 3115.1003167898625
+      percentile_99: 3115.1003167898625
+  липецк:
+    lead:
+      percentile_1: 2032.7349524815206
+      percentile_50: 2032.7349524815206
+      percentile_99: 2032.7349524815206
+    senior:
+      percentile_1: 2534.3189017951427
+      percentile_50: 2534.3189017951427
+      percentile_99: 2534.3189017951427
+  минск:
+    lead:
+      percentile_1: 4230.7692307692305
+      percentile_50: 4230.7692307692305
+      percentile_99: 4230.7692307692305
+    senior:
+      percentile_1: 1157.6923076923076
+      percentile_50: 1346.1538461538462
+      percentile_99: 1346.1538461538462
+  москва:
+    intern:
+      percentile_1: 317.5818373812038
+      percentile_50: 356.3885955649419
+      percentile_99: 395.19535374868
+    junior:
+      percentile_1: 330.4118268215417
+      percentile_50: 1583.949313621964
+      percentile_99: 3299.8944033790917
+    lead:
+      percentile_1: 1619.5881731784582
+      percentile_50: 3365.892291446674
+      percentile_99: 5220.432946145724
+    middle:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1979.936642027455
+      percentile_99: 3959.87328405491
+    senior:
+      percentile_1: 1042.2386483632524
+      percentile_50: 2389.1235480464625
+      percentile_99: 5128.0359028511075
+  набережные челны:
+    junior:
+      percentile_1: 634.3717001055967
+      percentile_50: 725.9767687434002
+      percentile_99: 945.6177402323125
+  нижний новгород:
+    junior:
+      percentile_1: 649.4192185850053
+      percentile_50: 2111.932418162619
+      percentile_99: 3907.0749736008447
+    lead:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    middle:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  новокузнецк:
+    senior:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+  новосибирск:
+    junior:
+      percentile_1: 422.3864836325237
+      percentile_50: 1055.9662090813094
+      percentile_99: 2534.3189017951427
+    lead:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+    middle:
+      percentile_1: 930.5702217529039
+      percentile_50: 1557.5501583949313
+      percentile_99: 2255.8078141499473
+  омск:
+    junior:
+      percentile_1: 364.0443505807814
+      percentile_50: 739.1763463569166
+      percentile_99: 894.403379091869
+    senior:
+      percentile_1: 846.88489968321
+      percentile_50: 950.3695881731785
+      percentile_99: 1053.8542766631467
+  пенза:
+    junior:
+      percentile_1: 1372.7560718057023
+      percentile_50: 1372.7560718057023
+      percentile_99: 1372.7560718057023
+    senior:
+      percentile_1: 2062.565997888067
+      percentile_50: 2230.728616684266
+      percentile_99: 2398.8912354804647
+  пермь:
+    junior:
+      percentile_1: 483.104540654699
+      percentile_50: 989.9683210137275
+      percentile_99: 1946.9376979936642
+    lead:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+    middle:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  ростов:
+    intern:
+      percentile_1: 316.78986272439283
+      percentile_50: 316.78986272439283
+      percentile_99: 316.78986272439283
+    junior:
+      percentile_1: 678.7222808870116
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+    lead:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  рязань:
+    junior:
+      percentile_1: 463.3262935586061
+      percentile_50: 529.039070749736
+      percentile_99: 594.7518479408659
+  самара:
+    junior:
+      percentile_1: 580.7814149947202
+      percentile_50: 706.1774023231256
+      percentile_99: 2352.1647307286166
+    lead:
+      percentile_1: 1425.5543822597676
+      percentile_50: 1425.5543822597676
+      percentile_99: 1425.5543822597676
+    middle:
+      percentile_1: 448.78563885955646
+      percentile_50: 448.78563885955646
+      percentile_99: 448.78563885955646
+  санкт-петербург:
+    intern:
+      percentile_1: 633.5797254487857
+      percentile_50: 633.5797254487857
+      percentile_99: 633.5797254487857
+    junior:
+      percentile_1: 412.3548046462513
+      percentile_50: 910.7708553326293
+      percentile_99: 2523.548046462514
+    lead:
+      percentile_1: 965.6810982048573
+      percentile_50: 1715.9450897571278
+      percentile_99: 2880.147835269271
+    middle:
+      percentile_1: 1009.5036958817317
+      percentile_50: 1425.5543822597676
+      percentile_99: 2608.236536430834
+    senior:
+      percentile_1: 1397.8352692713834
+      percentile_50: 1979.936642027455
+      percentile_99: 4211.193241816262
+  симферополь:
+    junior:
+      percentile_1: 593.9809926082365
+      percentile_50: 593.9809926082365
+      percentile_99: 593.9809926082365
+  смоленск:
+    junior:
+      percentile_1: 633.5797254487857
+      percentile_50: 633.5797254487857
+      percentile_99: 633.5797254487857
+  ставрополь:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  ташкент:
+    middle:
+      percentile_1: 1964.942285715184
+      percentile_50: 1964.942285715184
+      percentile_99: 1964.942285715184
+    senior:
+      percentile_1: 1020.0
+      percentile_50: 2000.0
+      percentile_99: 2980.0
+  тбилиси:
+    senior:
+      percentile_1: 1527.5
+      percentile_50: 2875.0
+      percentile_99: 4222.5
+  тверь:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  тольятти:
+    junior:
+      percentile_1: 1003.1678986272439
+      percentile_50: 1003.1678986272439
+      percentile_99: 1003.1678986272439
+  томск:
+    junior:
+      percentile_1: 667.6346356916579
+      percentile_50: 1042.766631467793
+      percentile_99: 1417.898627243928
+    middle:
+      percentile_1: 784.1605068637804
+      percentile_50: 918.6906019007392
+      percentile_99: 1053.220696937698
+  тюмень:
+    junior:
+      percentile_1: 546.4625131995776
+      percentile_50: 1055.9662090813094
+      percentile_99: 1157.3389651531152
+    middle:
+      percentile_1: 447.09609292502637
+      percentile_50: 1140.4435058078143
+      percentile_99: 1833.7909186906018
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  ульяновск:
+    senior:
+      percentile_1: 1201.1615628299894
+      percentile_50: 1201.1615628299894
+      percentile_99: 1201.1615628299894
+  уфа:
+    junior:
+      percentile_1: 930.5702217529039
+      percentile_50: 1597.1488912354803
+      percentile_99: 3959.87328405491
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  хабаровск:
+    junior:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+    lead:
+      percentile_1: 1267.1594508975713
+      percentile_50: 1267.1594508975713
+      percentile_99: 1267.1594508975713
+    senior:
+      percentile_1: 1029.5670538542765
+      percentile_50: 1029.5670538542765
+      percentile_99: 1029.5670538542765
+  чебоксары:
+    middle:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    senior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  челябинск:
+    junior:
+      percentile_1: 373.9440337909187
+      percentile_50: 917.3706441393874
+      percentile_99: 1319.9577613516367
+    lead:
+      percentile_1: 1927.1383315733897
+      percentile_50: 1927.1383315733897
+      percentile_99: 1927.1383315733897
+    middle:
+      percentile_1: 1327.8775079197464
+      percentile_50: 1715.9450897571278
+      percentile_99: 2616.156282998944
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  ярославль:
+    junior:
+      percentile_1: 548.0992608236537
+      percentile_50: 871.1721224920802
+      percentile_99: 1081.5733896515312
+    lead:
+      percentile_1: 2032.7349524815206
+      percentile_50: 2032.7349524815206
+      percentile_99: 2032.7349524815206
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+Data Engineer:
+  алматы:
+    senior:
+      percentile_1: 2336.9824882112216
+      percentile_50: 2336.9824882112216
+      percentile_99: 2336.9824882112216
+  барнаул:
+    junior:
+      percentile_1: 459.34530095036956
+      percentile_50: 459.34530095036956
+      percentile_99: 459.34530095036956
+  владивосток:
+    lead:
+      percentile_1: 871.1721224920802
+      percentile_50: 871.1721224920802
+      percentile_99: 871.1721224920802
+  владимир:
+    lead:
+      percentile_1: 686.3780359028511
+      percentile_50: 686.3780359028511
+      percentile_99: 686.3780359028511
+  волгоград:
+    junior:
+      percentile_1: 401.73748680042235
+      percentile_50: 683.495248152059
+      percentile_99: 965.2530095036958
+  воронеж:
+    junior:
+      percentile_1: 697.8880675818374
+      percentile_50: 744.4561774023231
+      percentile_99: 791.0242872228088
+  екатеринбург:
+    junior:
+      percentile_1: 435.05807814149944
+      percentile_50: 1055.9662090813094
+      percentile_99: 2349.5248152059135
+    middle:
+      percentile_1: 3167.898627243928
+      percentile_50: 3167.898627243928
+      percentile_99: 3167.898627243928
+  иркутск:
+    senior:
+      percentile_1: 897.5712777191129
+      percentile_50: 897.5712777191129
+      percentile_99: 897.5712777191129
+  казань:
+    junior:
+      percentile_1: 450.81837381203803
+      percentile_50: 983.3685322069693
+      percentile_99: 1108.7645195353748
+    middle:
+      percentile_1: 1135.1636747624075
+      percentile_50: 1135.1636747624075
+      percentile_99: 1135.1636747624075
+  калининград:
+    junior:
+      percentile_1: 1161.5628299894404
+      percentile_50: 1161.5628299894404
+      percentile_99: 1161.5628299894404
+  кемерово:
+    middle:
+      percentile_1: 749.3400211193242
+      percentile_50: 749.3400211193242
+      percentile_99: 749.3400211193242
+  киров:
+    junior:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+  краснодар:
+    junior:
+      percentile_1: 597.544878563886
+      percentile_50: 772.1752903907075
+      percentile_99: 946.805702217529
+    lead:
+      percentile_1: 925.026399155227
+      percentile_50: 925.026399155227
+      percentile_99: 925.026399155227
+  красноярск:
+    junior:
+      percentile_1: 2163.611404435058
+      percentile_50: 2163.611404435058
+      percentile_99: 2163.611404435058
+    middle:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  курск:
+    junior:
+      percentile_1: 1768.7434002111931
+      percentile_50: 1768.7434002111931
+      percentile_99: 1768.7434002111931
+  москва:
+    junior:
+      percentile_1: 587.909186906019
+      percentile_50: 1583.949313621964
+      percentile_99: 3874.3400211193243
+    lead:
+      percentile_1: 1667.1066525871172
+      percentile_50: 1667.1066525871172
+      percentile_99: 1667.1066525871172
+    middle:
+      percentile_1: 1097.1488912354805
+      percentile_50: 2250.0
+      percentile_99: 3864.836325237591
+    senior:
+      percentile_1: 1545.6045406546991
+      percentile_50: 2587.117212249208
+      percentile_99: 4476.768743400211
+  нижний новгород:
+    junior:
+      percentile_1: 1108.7645195353748
+      percentile_50: 1108.7645195353748
+      percentile_99: 1108.7645195353748
+  новокузнецк:
+    junior:
+      percentile_1: 1042.766631467793
+      percentile_50: 1042.766631467793
+      percentile_99: 1042.766631467793
+  новосибирск:
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  омск:
+    junior:
+      percentile_1: 665.2587117212249
+      percentile_50: 665.2587117212249
+      percentile_99: 665.2587117212249
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  пермь:
+    junior:
+      percentile_1: 2243.9281942977823
+      percentile_50: 2243.9281942977823
+      percentile_99: 2243.9281942977823
+    lead:
+      percentile_1: 567.5818373812037
+      percentile_50: 567.5818373812037
+      percentile_99: 567.5818373812037
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  ростов:
+    junior:
+      percentile_1: 1145.7233368532206
+      percentile_50: 1145.7233368532206
+      percentile_99: 1145.7233368532206
+    middle:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  рязань:
+    middle:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  самара:
+    senior:
+      percentile_1: 411.8268215417107
+      percentile_50: 411.8268215417107
+      percentile_99: 411.8268215417107
+  санкт-петербург:
+    junior:
+      percentile_1: 594.7729672650476
+      percentile_50: 1280.3590285110877
+      percentile_99: 1965.9450897571278
+    senior:
+      percentile_1: 967.79303062302
+      percentile_50: 1979.936642027455
+      percentile_99: 4536.430834213305
+  томск:
+    senior:
+      percentile_1: 427.6663146779303
+      percentile_50: 427.6663146779303
+      percentile_99: 427.6663146779303
+  тула:
+    middle:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  тюмень:
+    senior:
+      percentile_1: 897.5712777191129
+      percentile_50: 897.5712777191129
+      percentile_99: 897.5712777191129
+  уфа:
+    senior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  хабаровск:
+    middle:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  челябинск:
+    junior:
+      percentile_1: 422.3864836325237
+      percentile_50: 422.3864836325237
+      percentile_99: 422.3864836325237
+    middle:
+      percentile_1: 587.117212249208
+      percentile_50: 587.117212249208
+      percentile_99: 587.117212249208
+    senior:
+      percentile_1: 686.3780359028511
+      percentile_50: 686.3780359028511
+      percentile_99: 686.3780359028511
+  ярославль:
+    middle:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+Data Scientist:
+  алматы:
+    junior:
+      percentile_1: 2025.0
+      percentile_50: 2025.0
+      percentile_99: 2025.0
+  барнаул:
+    junior:
+      percentile_1: 833.6853220696937
+      percentile_50: 1583.949313621964
+      percentile_99: 2360.0844772967266
+  белгород:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  владивосток:
+    junior:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+    middle:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  владимир:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  волгоград:
+    junior:
+      percentile_1: 463.3579725448785
+      percentile_50: 659.9788806758183
+      percentile_99: 1953.5374868004224
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  вологда:
+    junior:
+      percentile_1: 1191.921858500528
+      percentile_50: 1385.9556494192184
+      percentile_99: 1579.989440337909
+  воронеж:
+    junior:
+      percentile_1: 459.47729672650473
+      percentile_50: 923.9704329461457
+      percentile_99: 2406.282998944034
+  екатеринбург:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1713.3051742344246
+    middle:
+      percentile_1: 568.6378035902851
+      percentile_50: 1267.1594508975713
+      percentile_99: 1965.6810982048573
+    senior:
+      percentile_1: 2045.934530095037
+      percentile_50: 2045.934530095037
+      percentile_99: 2045.934530095037
+  ижевск:
+    junior:
+      percentile_1: 566.5258711721225
+      percentile_50: 1161.5628299894404
+      percentile_99: 1316.7898627243928
+  иркутск:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 395.987328405491
+      percentile_99: 395.987328405491
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  казань:
+    intern:
+      percentile_1: 329.9894403379092
+      percentile_50: 329.9894403379092
+      percentile_99: 329.9894403379092
+    junior:
+      percentile_1: 419.74656810982043
+      percentile_50: 1055.9662090813094
+      percentile_99: 1579.989440337909
+    middle:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  калининград:
+    senior:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+  кемерово:
+    junior:
+      percentile_1: 665.2587117212249
+      percentile_50: 665.2587117212249
+      percentile_99: 665.2587117212249
+  краснодар:
+    junior:
+      percentile_1: 463.04118268215416
+      percentile_50: 1451.9535374868005
+      percentile_99: 1979.936642027455
+  красноярск:
+    intern:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    junior:
+      percentile_1: 589.5036958817318
+      percentile_50: 923.9704329461457
+      percentile_99: 1930.8342133051738
+  курск:
+    junior:
+      percentile_1: 1320.4857444561774
+      percentile_50: 1346.3569165786694
+      percentile_99: 1372.2280887011616
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  москва:
+    junior:
+      percentile_1: 380.4118268215417
+      percentile_50: 1079.1974656810983
+      percentile_99: 3455.6494192185837
+    lead:
+      percentile_1: 810.9820485744456
+      percentile_50: 1636.7476240760295
+      percentile_99: 4280.623020063357
+    middle:
+      percentile_1: 2274.5512143611404
+      percentile_50: 2375.923970432946
+      percentile_99: 3146.7793030623016
+    senior:
+      percentile_1: 1354.2766631467791
+      percentile_50: 2507.91974656811
+      percentile_99: 4304.382259767687
+  набережные челны:
+    junior:
+      percentile_1: 1326.5575501583949
+      percentile_50: 1649.9472016895459
+      percentile_99: 1973.3368532206969
+    lead:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  нижний новгород:
+    junior:
+      percentile_1: 475.97676874340016
+      percentile_50: 1220.960929250264
+      percentile_99: 2626.715945089757
+  новосибирск:
+    junior:
+      percentile_1: 411.8268215417106
+      percentile_50: 1108.7645195353748
+      percentile_99: 2587.117212249208
+    senior:
+      percentile_1: 1986.5364308342132
+      percentile_50: 2309.926082365364
+      percentile_99: 2633.315733896515
+  омск:
+    junior:
+      percentile_1: 568.6378035902851
+      percentile_50: 1267.1594508975713
+      percentile_99: 1965.6810982048573
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    senior:
+      percentile_1: 1689.5459345300949
+      percentile_50: 1689.5459345300949
+      percentile_99: 1689.5459345300949
+  пермь:
+    junior:
+      percentile_1: 463.8859556494192
+      percentile_50: 686.3780359028511
+      percentile_99: 945.0897571277719
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  ростов:
+    junior:
+      percentile_1: 764.519535374868
+      percentile_50: 1583.949313621964
+      percentile_99: 1840.0211193241817
+    middle:
+      percentile_1: 961.9852164730728
+      percentile_50: 1531.1510031678986
+      percentile_99: 2100.3167898627244
+  самара:
+    junior:
+      percentile_1: 715.1531151003168
+      percentile_50: 831.5733896515311
+      percentile_99: 947.9936642027454
+  санкт-петербург:
+    junior:
+      percentile_1: 461.2460401267159
+      percentile_50: 791.974656810982
+      percentile_99: 2344.2449841605066
+    middle:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    senior:
+      percentile_1: 1990.1372756071805
+      percentile_50: 2489.9683210137273
+      percentile_99: 2989.7993664202745
+  саратов:
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  смоленск:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  ташкент:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  тбилиси:
+    junior:
+      percentile_1: 1125.0
+      percentile_50: 1125.0
+      percentile_99: 1125.0
+  тольятти:
+    junior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  томск:
+    junior:
+      percentile_1: 559.3980992608236
+      percentile_50: 805.1742344244984
+      percentile_99: 1050.950369588173
+    senior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  тула:
+    junior:
+      percentile_1: 460.29567053854277
+      percentile_50: 506.8637803590285
+      percentile_99: 553.4318901795142
+  тюмень:
+    junior:
+      percentile_1: 686.3780359028511
+      percentile_50: 686.3780359028511
+      percentile_99: 686.3780359028511
+  ульяновск:
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  уфа:
+    junior:
+      percentile_1: 462.64519535374865
+      percentile_50: 494.98416050686376
+      percentile_99: 527.3231256599789
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  хабаровск:
+    junior:
+      percentile_1: 1082.3653643083421
+      percentile_50: 1082.3653643083421
+      percentile_99: 1082.3653643083421
+  чебоксары:
+    junior:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  челябинск:
+    junior:
+      percentile_1: 558.6061246040126
+      percentile_50: 712.7771911298838
+      percentile_99: 1055.9662090813094
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+    senior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  ярославль:
+    junior:
+      percentile_1: 352.9831045406547
+      percentile_50: 962.249208025343
+      percentile_99: 1571.5153115100316
+    lead:
+      percentile_1: 1214.3611404435057
+      percentile_50: 1214.3611404435057
+      percentile_99: 1214.3611404435057
+Database Administrator (DBA):
+  москва:
+    junior:
+      percentile_1: 1910.7708553326293
+      percentile_50: 2402.323125659979
+      percentile_99: 2893.8753959873284
+    senior:
+      percentile_1: 4227.824709609293
+      percentile_50: 4421.858500527984
+      percentile_99: 4615.892291446674
+  санкт-петербург:
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+DevOps Engineer:
+  владивосток:
+    middle:
+      percentile_1: 1638.1995776135163
+      percentile_50: 1709.3453009503696
+      percentile_99: 1780.4910242872227
+  волгоград:
+    middle:
+      percentile_1: 973.6008447729672
+      percentile_50: 2111.932418162619
+      percentile_99: 3922.9144667370642
+  воронеж:
+    junior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+    middle:
+      percentile_1: 1742.3442449841605
+      percentile_50: 1742.3442449841605
+      percentile_99: 1742.3442449841605
+  екатеринбург:
+    junior:
+      percentile_1: 1267.1594508975713
+      percentile_50: 1267.1594508975713
+      percentile_99: 1267.1594508975713
+    senior:
+      percentile_1: 673.1784582893347
+      percentile_50: 1319.9577613516367
+      percentile_99: 3130.939809926082
+  ижевск:
+    middle:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  иркутск:
+    middle:
+      percentile_1: 2059.134107708553
+      percentile_50: 2059.134107708553
+      percentile_99: 2059.134107708553
+  казань:
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  красноярск:
+    junior:
+      percentile_1: 580.7814149947202
+      percentile_50: 580.7814149947202
+      percentile_99: 580.7814149947202
+    middle:
+      percentile_1: 1953.5374868004224
+      percentile_50: 1953.5374868004224
+      percentile_99: 1953.5374868004224
+    senior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  липецк:
+    middle:
+      percentile_1: 2798.31045406547
+      percentile_50: 2798.31045406547
+      percentile_99: 2798.31045406547
+  минск:
+    junior:
+      percentile_1: 1250.0
+      percentile_50: 1250.0
+      percentile_99: 1250.0
+  москва:
+    junior:
+      percentile_1: 908.6589229144666
+      percentile_50: 1781.9429778247095
+      percentile_99: 2638.067581837381
+    lead:
+      percentile_1: 3299.8944033790917
+      percentile_50: 3299.8944033790917
+      percentile_99: 3299.8944033790917
+    middle:
+      percentile_1: 1276.1351636747625
+      percentile_50: 2639.9155227032734
+      percentile_99: 4617.159450897571
+    senior:
+      percentile_1: 1741.2354804646252
+      percentile_50: 3035.9028511087645
+      percentile_99: 5240.65469904963
+  нижний новгород:
+    middle:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  новосибирск:
+    junior:
+      percentile_1: 422.3864836325237
+      percentile_50: 422.3864836325237
+      percentile_99: 422.3864836325237
+    lead:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  омск:
+    middle:
+      percentile_1: 1003.1678986272439
+      percentile_50: 1003.1678986272439
+      percentile_99: 1003.1678986272439
+  ростов:
+    senior:
+      percentile_1: 1029.5670538542765
+      percentile_50: 1029.5670538542765
+      percentile_99: 1029.5670538542765
+  самара:
+    junior:
+      percentile_1: 857.9725448785639
+      percentile_50: 857.9725448785639
+      percentile_99: 857.9725448785639
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  санкт-петербург:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1314.67793030623
+    middle:
+      percentile_1: 1211.7212249208026
+      percentile_50: 2217.5290390707496
+      percentile_99: 3896.515311510031
+    senior:
+      percentile_1: 1933.210137275607
+      percentile_50: 3524.28722280887
+      percentile_99: 5115.364308342133
+  ставрополь:
+    lead:
+      percentile_1: 542.2703273495248
+      percentile_50: 542.2703273495248
+      percentile_99: 542.2703273495248
+  тбилиси:
+    senior:
+      percentile_1: 5250.0
+      percentile_50: 5250.0
+      percentile_99: 5250.0
+  тольятти:
+    middle:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+  тюмень:
+    senior:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  ярославль:
+    middle:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+ERP Analyst:
+  астана:
+    junior:
+      percentile_1: 965.9527617939716
+      percentile_50: 965.9527617939716
+      percentile_99: 965.9527617939716
+  барнаул:
+    senior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  владивосток:
+    junior:
+      percentile_1: 1135.1636747624075
+      percentile_50: 1135.1636747624075
+      percentile_99: 1135.1636747624075
+  екатеринбург:
+    middle:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  ижевск:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  казань:
+    middle:
+      percentile_1: 2378.5638859556493
+      percentile_50: 2507.91974656811
+      percentile_99: 2637.27560718057
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  краснодар:
+    junior:
+      percentile_1: 1455.596620908131
+      percentile_50: 1634.1077085533261
+      percentile_99: 1812.6187961985215
+    senior:
+      percentile_1: 1425.5543822597676
+      percentile_50: 1425.5543822597676
+      percentile_99: 1425.5543822597676
+  красноярск:
+    middle:
+      percentile_1: 760.2956705385427
+      percentile_50: 760.2956705385427
+      percentile_99: 760.2956705385427
+  москва:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 1913.9387539598733
+      percentile_99: 3431.8901795142556
+    lead:
+      percentile_1: 1483.6325237592398
+      percentile_50: 2164.7307286166842
+      percentile_99: 2890.7074973600843
+    middle:
+      percentile_1: 1209.0813093980992
+      percentile_50: 2375.923970432946
+      percentile_99: 3632.5237592397043
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 2851.1087645195353
+      percentile_99: 3313.6219640971485
+  новосибирск:
+    middle:
+      percentile_1: 1452.2175290390705
+      percentile_50: 1465.1531151003169
+      percentile_99: 1478.088701161563
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  пермь:
+    middle:
+      percentile_1: 2138.3315733896516
+      percentile_50: 2138.3315733896516
+      percentile_99: 2138.3315733896516
+  ростов:
+    middle:
+      percentile_1: 2164.7307286166842
+      percentile_50: 2164.7307286166842
+      percentile_99: 2164.7307286166842
+  санкт-петербург:
+    junior:
+      percentile_1: 688.4899683210137
+      percentile_50: 791.974656810982
+      percentile_99: 1464.6251319957762
+    lead:
+      percentile_1: 1953.5374868004224
+      percentile_50: 1953.5374868004224
+      percentile_99: 1953.5374868004224
+    middle:
+      percentile_1: 1445.3537486800421
+      percentile_50: 2177.9303062302006
+      percentile_99: 2526.3991552270327
+  томск:
+    intern:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    middle:
+      percentile_1: 760.2956705385427
+      percentile_50: 760.2956705385427
+      percentile_99: 760.2956705385427
+  тула:
+    junior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  уфа:
+    intern:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+ERP Consultant:
+  минск:
+    senior:
+      percentile_1: 4230.7692307692305
+      percentile_50: 4230.7692307692305
+      percentile_99: 4230.7692307692305
+  москва:
+    middle:
+      percentile_1: 3167.898627243928
+      percentile_50: 3167.898627243928
+      percentile_99: 3167.898627243928
+ERP Developer:
+  екатеринбург:
+    junior:
+      percentile_1: 2534.3189017951427
+      percentile_50: 2534.3189017951427
+      percentile_99: 2534.3189017951427
+  казань:
+    junior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  кемерово:
+    junior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  киров:
+    senior:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+  москва:
+    junior:
+      percentile_1: 905.4910242872228
+      percentile_50: 2587.117212249208
+      percentile_99: 3932.418162618796
+    senior:
+      percentile_1: 1526.531151003168
+      percentile_50: 1946.9376979936642
+      percentile_99: 2367.3442449841605
+  набережные челны:
+    junior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  санкт-петербург:
+    junior:
+      percentile_1: 2391.7634635691657
+      percentile_50: 3167.898627243928
+      percentile_99: 3944.03379091869
+Electrical Engineer:
+  екатеринбург:
+    senior:
+      percentile_1: 1016.3674762407603
+      percentile_50: 1016.3674762407603
+      percentile_99: 1016.3674762407603
+Embedded Systems Engineer:
+  волгоград:
+    senior:
+      percentile_1: 1005.2798310454065
+      percentile_50: 1005.2798310454065
+      percentile_99: 1005.2798310454065
+  воронеж:
+    senior:
+      percentile_1: 2138.3315733896516
+      percentile_50: 2138.3315733896516
+      percentile_99: 2138.3315733896516
+  екатеринбург:
+    junior:
+      percentile_1: 558.0781414994719
+      percentile_50: 739.1763463569166
+      percentile_99: 920.274551214361
+    middle:
+      percentile_1: 857.9725448785639
+      percentile_50: 857.9725448785639
+      percentile_99: 857.9725448785639
+  иваново:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  москва:
+    middle:
+      percentile_1: 1991.8162618796198
+      percentile_50: 2507.91974656811
+      percentile_99: 3049.6304118268213
+    senior:
+      percentile_1: 1676.3463569165785
+      percentile_50: 1828.1414994720167
+      percentile_99: 2620.1161562829984
+  новосибирск:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    middle:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  ростов:
+    junior:
+      percentile_1: 580.7814149947202
+      percentile_50: 580.7814149947202
+      percentile_99: 580.7814149947202
+  санкт-петербург:
+    middle:
+      percentile_1: 1655.8342133051742
+      percentile_50: 1685.5860612460401
+      percentile_99: 1715.337909186906
+  ташкент:
+    middle:
+      percentile_1: 1768.4480571436654
+      percentile_50: 1768.4480571436654
+      percentile_99: 1768.4480571436654
+  чебоксары:
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+Firmware Engineer:
+  москва:
+    senior:
+      percentile_1: 5000.0
+      percentile_50: 5000.0
+      percentile_99: 5000.0
+  оренбург:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  санкт-петербург:
+    senior:
+      percentile_1: 1346.3569165786694
+      percentile_50: 1346.3569165786694
+      percentile_99: 1346.3569165786694
+  уфа:
+    senior:
+      percentile_1: 1715.9450897571278
+      percentile_50: 1715.9450897571278
+      percentile_99: 1715.9450897571278
+Frontend Developer:
+  алматы:
+    junior:
+      percentile_1: 468.9544859677185
+      percentile_50: 545.2959139159517
+      percentile_99: 621.6373418641849
+    middle:
+      percentile_1: 2500.0
+      percentile_50: 2500.0
+      percentile_99: 2500.0
+    senior:
+      percentile_1: 3000.0
+      percentile_50: 3000.0
+      percentile_99: 3000.0
+  астана:
+    junior:
+      percentile_1: 779.5134921788987
+      percentile_50: 804.9606348283097
+      percentile_99: 830.4077774777207
+    middle:
+      percentile_1: 1257.462847171732
+      percentile_50: 1800.0
+      percentile_99: 2241.0
+  белгород:
+    middle:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+  воронеж:
+    junior:
+      percentile_1: 533.2629355860613
+      percentile_50: 791.9746568109821
+      percentile_99: 1050.6863780359029
+  екатеринбург:
+    junior:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    senior:
+      percentile_1: 2640.9714889123547
+      percentile_50: 2692.7138331573387
+      percentile_99: 2744.456177402323
+  иваново:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  ижевск:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  иркутск:
+    middle:
+      percentile_1: 1003.1678986272439
+      percentile_50: 1003.1678986272439
+      percentile_99: 1003.1678986272439
+  казань:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 395.987328405491
+      percentile_99: 395.987328405491
+    middle:
+      percentile_1: 1396.5153115100316
+      percentile_50: 1396.5153115100316
+      percentile_99: 1396.5153115100316
+  калининград:
+    junior:
+      percentile_1: 581.5733896515312
+      percentile_50: 620.3801478352693
+      percentile_99: 659.1869060190073
+  киров:
+    junior:
+      percentile_1: 475.1847940865892
+      percentile_50: 475.1847940865892
+      percentile_99: 475.1847940865892
+  краснодар:
+    middle:
+      percentile_1: 1108.7645195353748
+      percentile_50: 1108.7645195353748
+      percentile_99: 1108.7645195353748
+  минск:
+    junior:
+      percentile_1: 385.3846153846154
+      percentile_50: 423.0769230769231
+      percentile_99: 460.7692307692308
+    senior:
+      percentile_1: 1923.076923076923
+      percentile_50: 1923.076923076923
+      percentile_99: 1923.076923076923
+  москва:
+    junior:
+      percentile_1: 408.52692713833153
+      percentile_50: 1055.9662090813094
+      percentile_99: 2860.3484688489957
+    lead:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+    middle:
+      percentile_1: 574.4456177402323
+      percentile_50: 1583.949313621964
+      percentile_99: 2639.9155227032734
+    senior:
+      percentile_1: 1531.1510031678986
+      percentile_50: 2625.0
+      percentile_99: 4912.5
+  нижний новгород:
+    junior:
+      percentile_1: 956.7053854276662
+      percentile_50: 1267.159450897571
+      percentile_99: 1577.6135163674762
+    middle:
+      percentile_1: 743.6642027455122
+      percentile_50: 963.5691657866948
+      percentile_99: 1183.4741288278774
+  новосибирск:
+    junior:
+      percentile_1: 475.1847940865892
+      percentile_50: 475.1847940865892
+      percentile_99: 837.3812038014783
+    middle:
+      percentile_1: 1636.7476240760295
+      percentile_50: 1636.7476240760295
+      percentile_99: 1636.7476240760295
+    senior:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+  ростов:
+    middle:
+      percentile_1: 1465.364308342133
+      percentile_50: 1863.780359028511
+      percentile_99: 2262.196409714889
+  рязань:
+    junior:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+  санкт-петербург:
+    junior:
+      percentile_1: 534.8468848996832
+      percentile_50: 871.1721224920802
+      percentile_99: 1207.4973600844774
+    middle:
+      percentile_1: 1981.2565997888066
+      percentile_50: 2045.934530095037
+      percentile_99: 2110.612460401267
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  ставрополь:
+    junior:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+  ташкент:
+    junior:
+      percentile_1: 589.4826857145551
+      percentile_50: 589.4826857145551
+      percentile_99: 589.4826857145551
+    senior:
+      percentile_1: 559.5
+      percentile_50: 1025.0
+      percentile_99: 1490.5
+  тбилиси:
+    middle:
+      percentile_1: 1800.0
+      percentile_50: 1800.0
+      percentile_99: 1800.0
+  тверь:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  тула:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    senior:
+      percentile_1: 1636.7476240760295
+      percentile_50: 1636.7476240760295
+      percentile_99: 1636.7476240760295
+  ульяновск:
+    senior:
+      percentile_1: 3000.0
+      percentile_50: 3000.0
+      percentile_99: 3000.0
+  уфа:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    senior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  ярославль:
+    junior:
+      percentile_1: 475.1847940865892
+      percentile_50: 475.1847940865892
+      percentile_99: 475.1847940865892
+Full Stack Developer:
+  астана:
+    middle:
+      percentile_1: 1090.5918278319034
+      percentile_50: 1090.5918278319034
+      percentile_99: 1090.5918278319034
+  барнаул:
+    middle:
+      percentile_1: 989.9683210137275
+      percentile_50: 989.9683210137275
+      percentile_99: 989.9683210137275
+  екатеринбург:
+    senior:
+      percentile_1: 2394.403379091869
+      percentile_50: 3299.8944033790917
+      percentile_99: 4720.997888067582
+  иваново:
+    junior:
+      percentile_1: 1029.5670538542765
+      percentile_50: 1029.5670538542765
+      percentile_99: 1029.5670538542765
+  казань:
+    junior:
+      percentile_1: 1451.9535374868003
+      percentile_50: 1451.9535374868003
+      percentile_99: 1451.9535374868003
+  калининград:
+    middle:
+      percentile_1: 1478.3526927138332
+      percentile_50: 1478.3526927138332
+      percentile_99: 1478.3526927138332
+    senior:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  краснодар:
+    middle:
+      percentile_1: 2217.5290390707496
+      percentile_50: 2217.5290390707496
+      percentile_99: 2217.5290390707496
+  минск:
+    senior:
+      percentile_1: 2500.0
+      percentile_50: 2500.0
+      percentile_99: 2500.0
+  москва:
+    junior:
+      percentile_1: 935.5860612460401
+      percentile_50: 1319.9577613516367
+      percentile_99: 1476.2407602956705
+    lead:
+      percentile_1: 5500.0
+      percentile_50: 5500.0
+      percentile_99: 5500.0
+    middle:
+      percentile_1: 1483.6325237592398
+      percentile_50: 1900.739176346357
+      percentile_99: 2813.096620908131
+    senior:
+      percentile_1: 1858.5005279831046
+      percentile_50: 2771.9112988384372
+      percentile_99: 4451.995776135163
+  нижний новгород:
+    senior:
+      percentile_1: 2798.31045406547
+      percentile_50: 2798.31045406547
+      percentile_99: 2798.31045406547
+  новосибирск:
+    junior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  ростов:
+    junior:
+      percentile_1: 559.3980992608236
+      percentile_50: 805.1742344244984
+      percentile_99: 1050.950369588173
+    senior:
+      percentile_1: 2771.9112988384372
+      percentile_50: 2771.9112988384372
+      percentile_99: 2771.9112988384372
+  самара:
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  санкт-петербург:
+    junior:
+      percentile_1: 902.3231256599788
+      percentile_50: 1187.961985216473
+      percentile_99: 2190.601900739176
+    middle:
+      percentile_1: 1328.4054910242871
+      percentile_50: 1742.3442449841605
+      percentile_99: 1975.1847940865891
+    senior:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 4958.078141499473
+  смоленск:
+    junior:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+  тбилиси:
+    middle:
+      percentile_1: 2006.3357972544877
+      percentile_50: 2006.3357972544877
+      percentile_99: 2006.3357972544877
+  чебоксары:
+    junior:
+      percentile_1: 422.3864836325237
+      percentile_50: 422.3864836325237
+      percentile_99: 422.3864836325237
+  челябинск:
+    junior:
+      percentile_1: 1636.7476240760295
+      percentile_50: 1636.7476240760295
+      percentile_99: 1636.7476240760295
+Game Developer:
+  екатеринбург:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  краснодар:
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  москва:
+    junior:
+      percentile_1: 750.0
+      percentile_50: 750.0
+      percentile_99: 750.0
+    lead:
+      percentile_1: 2250.0
+      percentile_50: 2250.0
+      percentile_99: 2250.0
+    senior:
+      percentile_1: 1585.533262935586
+      percentile_50: 1663.1467793030622
+      percentile_99: 1740.7602956705384
+  нижний новгород:
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+Hardware Engineer:
+  москва:
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+IT Consultant:
+  москва:
+    junior:
+      percentile_1: 995.9081309398099
+      percentile_50: 1286.9588173178458
+      percentile_99: 1578.0095036958814
+  новосибирск:
+    junior:
+      percentile_1: 633.5797254487857
+      percentile_50: 633.5797254487857
+      percentile_99: 633.5797254487857
+IT Operations Manager:
+  москва:
+    middle:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+    senior:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  нижний новгород:
+    lead:
+      percentile_1: 1322.0696937697994
+      percentile_50: 1425.5543822597676
+      percentile_99: 1529.0390707497359
+  новосибирск:
+    senior:
+      percentile_1: 897.5712777191129
+      percentile_50: 897.5712777191129
+      percentile_99: 897.5712777191129
+  ростов:
+    lead:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  сочи:
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  тольятти:
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  тула:
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+IT Project Manager:
+  алматы:
+    lead:
+      percentile_1: 943.1022663536842
+      percentile_50: 1350.2565487442614
+      percentile_99: 1757.4108311348386
+    middle:
+      percentile_1: 883.0158499345645
+      percentile_50: 1067.2220029497912
+      percentile_99: 1548.6403955213027
+  астрахань:
+    lead:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  владивосток:
+    lead:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+    middle:
+      percentile_1: 1518.2154171066525
+      percentile_50: 1531.1510031678986
+      percentile_99: 2262.0116156282998
+    senior:
+      percentile_1: 1636.7476240760295
+      percentile_50: 1636.7476240760295
+      percentile_99: 1636.7476240760295
+  волгоград:
+    senior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  екатеринбург:
+    lead:
+      percentile_1: 2117.2122492080252
+      percentile_50: 2375.923970432946
+      percentile_99: 2634.635691657867
+    senior:
+      percentile_1: 1161.5628299894404
+      percentile_50: 1161.5628299894404
+      percentile_99: 1161.5628299894404
+  зеленоград:
+    senior:
+      percentile_1: 1425.5543822597676
+      percentile_50: 1425.5543822597676
+      percentile_99: 1425.5543822597676
+  ижевск:
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  казань:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  калининград:
+    lead:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+  киров:
+    middle:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  краснодар:
+    lead:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+  минск:
+    junior:
+      percentile_1: 961.5384615384615
+      percentile_50: 961.5384615384615
+      percentile_99: 961.5384615384615
+  москва:
+    junior:
+      percentile_1: 742.8722280887011
+      percentile_50: 1029.5670538542768
+      percentile_99: 1706.7053854276662
+    lead:
+      percentile_1: 1036.4308342133052
+      percentile_50: 2045.934530095037
+      percentile_99: 2639.9155227032734
+    middle:
+      percentile_1: 742.3442449841606
+      percentile_50: 1214.3611404435057
+      percentile_99: 2350.5807814149944
+    senior:
+      percentile_1: 887.5395987328404
+      percentile_50: 1768.7434002111931
+      percentile_99: 3852.956705385428
+  нижний новгород:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    lead:
+      percentile_1: 815.7338965153115
+      percentile_50: 1979.9366420274548
+      percentile_99: 3144.139387539598
+    senior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  новосибирск:
+    middle:
+      percentile_1: 1595.8289334741287
+      percentile_50: 2177.9303062302006
+      percentile_99: 2760.0316789862727
+    senior:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+  пермь:
+    junior:
+      percentile_1: 448.78563885955646
+      percentile_50: 448.78563885955646
+      percentile_99: 448.78563885955646
+  ростов:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    lead:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  самара:
+    junior:
+      percentile_1: 793.5586061246039
+      percentile_50: 871.1721224920802
+      percentile_99: 948.7856388595565
+    middle:
+      percentile_1: 475.1847940865892
+      percentile_50: 475.1847940865892
+      percentile_99: 475.1847940865892
+  санкт-петербург:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    lead:
+      percentile_1: 1111.9324181626187
+      percentile_50: 1583.949313621964
+      percentile_99: 2361.140443505808
+    middle:
+      percentile_1: 952.481520591341
+      percentile_50: 1055.9662090813094
+      percentile_99: 1185.32206969377
+    senior:
+      percentile_1: 1322.0696937697994
+      percentile_50: 1425.5543822597676
+      percentile_99: 1529.0390707497359
+  ставрополь:
+    lead:
+      percentile_1: 1478.3526927138332
+      percentile_50: 1478.3526927138332
+      percentile_99: 1478.3526927138332
+  ташкент:
+    junior:
+      percentile_1: 687.7298000003144
+      percentile_50: 687.7298000003144
+      percentile_99: 687.7298000003144
+    middle:
+      percentile_1: 900.0
+      percentile_50: 900.0
+      percentile_99: 900.0
+    senior:
+      percentile_1: 1250.0
+      percentile_50: 1250.0
+      percentile_99: 1250.0
+  томск:
+    junior:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    middle:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  тула:
+    lead:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    middle:
+      percentile_1: 844.7729672650474
+      percentile_50: 844.7729672650474
+      percentile_99: 844.7729672650474
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  тюмень:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    lead:
+      percentile_1: 1323.9176346356917
+      percentile_50: 1517.9514255543822
+      percentile_99: 1711.9852164730728
+    middle:
+      percentile_1: 461.98521647307285
+      percentile_50: 461.98521647307285
+      percentile_99: 461.98521647307285
+  уфа:
+    lead:
+      percentile_1: 1326.5575501583949
+      percentile_50: 1649.9472016895459
+      percentile_99: 1973.3368532206969
+    middle:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+    senior:
+      percentile_1: 1058.6061246040126
+      percentile_50: 1187.961985216473
+      percentile_99: 1317.3178458289335
+  ярославль:
+    junior:
+      percentile_1: 857.9725448785639
+      percentile_50: 857.9725448785639
+      percentile_99: 857.9725448785639
+IT Risk Analyst:
+  алматы:
+    middle:
+      percentile_1: 649.1618022808949
+      percentile_50: 649.1618022808949
+      percentile_99: 649.1618022808949
+  владивосток:
+    lead:
+      percentile_1: 1425.5543822597676
+      percentile_50: 1425.5543822597676
+      percentile_99: 1425.5543822597676
+    senior:
+      percentile_1: 1263.1995776135163
+      percentile_50: 1715.9450897571278
+      percentile_99: 1780.623020063358
+  волгоград:
+    senior:
+      percentile_1: 876.4519535374868
+      percentile_50: 876.4519535374868
+      percentile_99: 876.4519535374868
+  воронеж:
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  екатеринбург:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    senior:
+      percentile_1: 1012.6715945089757
+      percentile_50: 1478.3526927138332
+      percentile_99: 1944.0337909186906
+  ижевск:
+    junior:
+      percentile_1: 686.3780359028511
+      percentile_50: 686.3780359028511
+      percentile_99: 686.3780359028511
+  йошкар-ола:
+    junior:
+      percentile_1: 633.5797254487857
+      percentile_50: 633.5797254487857
+      percentile_99: 633.5797254487857
+  казань:
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    senior:
+      percentile_1: 797.2544878563886
+      percentile_50: 1055.9662090813094
+      percentile_99: 1314.67793030623
+  кемерово:
+    senior:
+      percentile_1: 1057.286166842661
+      percentile_50: 1121.9640971488911
+      percentile_99: 1186.6420274551215
+  киров:
+    senior:
+      percentile_1: 725.9767687434002
+      percentile_50: 725.9767687434002
+      percentile_99: 725.9767687434002
+  краснодар:
+    junior:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+    senior:
+      percentile_1: 609.0813093980993
+      percentile_50: 609.0813093980993
+      percentile_99: 609.0813093980993
+  красноярск:
+    junior:
+      percentile_1: 704.3294614572334
+      percentile_50: 704.3294614572334
+      percentile_99: 704.3294614572334
+  минск:
+    junior:
+      percentile_1: 623.0769230769231
+      percentile_50: 623.0769230769231
+      percentile_99: 623.0769230769231
+    senior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  москва:
+    junior:
+      percentile_1: 1199.8416050686378
+      percentile_50: 1768.7434002111931
+      percentile_99: 2619.3241816261875
+    lead:
+      percentile_1: 1594.508975712777
+      percentile_50: 2111.932418162619
+      percentile_99: 2629.35586061246
+    middle:
+      percentile_1: 1199.8416050686378
+      percentile_50: 1781.9429778247095
+      percentile_99: 2364.0443505807816
+    senior:
+      percentile_1: 1058.870116156283
+      percentile_50: 2006.3357972544877
+      percentile_99: 3505.8078141499473
+  набережные челны:
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  новокузнецк:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  новосибирск:
+    junior:
+      percentile_1: 635.1636747624076
+      percentile_50: 712.7771911298838
+      percentile_99: 790.39070749736
+    senior:
+      percentile_1: 590.1003167898626
+      percentile_50: 788.0147835269271
+      percentile_99: 985.9292502639914
+  омск:
+    junior:
+      percentile_1: 538.5427666314678
+      percentile_50: 538.5427666314678
+      percentile_99: 538.5427666314678
+  ростов:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    lead:
+      percentile_1: 475.1847940865892
+      percentile_50: 475.1847940865892
+      percentile_99: 475.1847940865892
+    senior:
+      percentile_1: 752.375923970433
+      percentile_50: 752.375923970433
+      percentile_99: 752.375923970433
+  самара:
+    junior:
+      percentile_1: 422.3864836325237
+      percentile_50: 422.3864836325237
+      percentile_99: 422.3864836325237
+  санкт-петербург:
+    junior:
+      percentile_1: 934.8680042238648
+      percentile_50: 951.4255543822597
+      percentile_99: 976.2618796198522
+    middle:
+      percentile_1: 802.534318901795
+      percentile_50: 1319.9577613516367
+      percentile_99: 1966.7370644139387
+    senior:
+      percentile_1: 529.3030623020063
+      percentile_50: 593.9809926082365
+      percentile_99: 658.6589229144668
+  саратов:
+    senior:
+      percentile_1: 857.9725448785639
+      percentile_50: 857.9725448785639
+      percentile_99: 857.9725448785639
+  тольятти:
+    senior:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+  тула:
+    senior:
+      percentile_1: 1095.5649419218585
+      percentile_50: 1095.5649419218585
+      percentile_99: 1095.5649419218585
+  уфа:
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  хабаровск:
+    senior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  чебоксары:
+    senior:
+      percentile_1: 448.78563885955646
+      percentile_50: 448.78563885955646
+      percentile_99: 448.78563885955646
+IT Support Specialist:
+  алматы:
+    junior:
+      percentile_1: 519.3709881800619
+      percentile_50: 521.4067595920149
+      percentile_99: 523.4425310039677
+    senior:
+      percentile_1: 1100.9784166683978
+      percentile_50: 1100.9784166683978
+      percentile_99: 1100.9784166683978
+  владивосток:
+    junior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  воронеж:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  екатеринбург:
+    junior:
+      percentile_1: 356.3885955649419
+      percentile_50: 356.3885955649419
+      percentile_99: 356.3885955649419
+    middle:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  иваново:
+    junior:
+      percentile_1: 725.9767687434002
+      percentile_50: 725.9767687434002
+      percentile_99: 725.9767687434002
+  иркутск:
+    junior:
+      percentile_1: 385.42766631467794
+      percentile_50: 385.42766631467794
+      percentile_99: 385.42766631467794
+  казань:
+    middle:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  калуга:
+    junior:
+      percentile_1: 857.9725448785639
+      percentile_50: 857.9725448785639
+      percentile_99: 857.9725448785639
+  кемерово:
+    junior:
+      percentile_1: 411.8268215417107
+      percentile_50: 411.8268215417107
+      percentile_99: 411.8268215417107
+  краснодар:
+    junior:
+      percentile_1: 633.5797254487857
+      percentile_50: 633.5797254487857
+      percentile_99: 633.5797254487857
+  красноярск:
+    junior:
+      percentile_1: 729.2766631467792
+      percentile_50: 890.9714889123547
+      percentile_99: 1052.6663146779304
+  курск:
+    junior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  липецк:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  москва:
+    junior:
+      percentile_1: 567.6598732840549
+      percentile_50: 881.4097148891235
+      percentile_99: 1265.7074973600845
+    lead:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    senior:
+      percentile_1: 1197.2016895459344
+      percentile_50: 1649.947201689546
+      percentile_99: 2102.6927138331575
+  нижний новгород:
+    junior:
+      percentile_1: 401.2671594508975
+      percentile_50: 659.9788806758183
+      percentile_99: 918.6906019007391
+  ростов:
+    junior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  санкт-петербург:
+    junior:
+      percentile_1: 646.2513199577613
+      percentile_50: 1055.9662090813094
+      percentile_99: 1760.1636747624073
+    middle:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  тбилиси:
+    junior:
+      percentile_1: 875.0
+      percentile_50: 875.0
+      percentile_99: 875.0
+  тверь:
+    middle:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  чебоксары:
+    junior:
+      percentile_1: 517.4234424498416
+      percentile_50: 517.4234424498416
+      percentile_99: 517.4234424498416
+IoT Engineer:
+  алматы:
+    junior:
+      percentile_1: 1454.1224371092046
+      percentile_50: 1454.1224371092046
+      percentile_99: 1454.1224371092046
+  москва:
+    senior:
+      percentile_1: 3750.0
+      percentile_50: 3750.0
+      percentile_99: 3750.0
+MLOps Engineer:
+  астана:
+    junior:
+      percentile_1: 389.49708136853695
+      percentile_50: 389.49708136853695
+      percentile_99: 389.49708136853695
+  ташкент:
+    junior:
+      percentile_1: 471.5861485716441
+      percentile_50: 471.5861485716441
+      percentile_99: 471.5861485716441
+Machine Learning Engineer:
+  москва:
+    senior:
+      percentile_1: 3750.0
+      percentile_50: 3750.0
+      percentile_99: 3750.0
+  ташкент:
+    senior:
+      percentile_1: 2250.0
+      percentile_50: 2250.0
+      percentile_99: 2250.0
+Marketing Manager:
+  москва:
+    lead:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+Mobile App Developer:
+  екатеринбург:
+    middle:
+      percentile_1: 1795.1425554382258
+      percentile_50: 1795.1425554382258
+      percentile_99: 1795.1425554382258
+  москва:
+    senior:
+      percentile_1: 1986.5364308342132
+      percentile_50: 2309.926082365364
+      percentile_99: 2633.315733896515
+Network Engineer:
+  владивосток:
+    junior:
+      percentile_1: 1531.1510031678986
+      percentile_50: 1531.1510031678986
+      percentile_99: 1531.1510031678986
+  владимир:
+    junior:
+      percentile_1: 910.7708553326294
+      percentile_50: 910.7708553326294
+      percentile_99: 910.7708553326294
+  вологда:
+    senior:
+      percentile_1: 725.9767687434002
+      percentile_50: 725.9767687434002
+      percentile_99: 725.9767687434002
+  воронеж:
+    middle:
+      percentile_1: 1742.3442449841605
+      percentile_50: 1742.3442449841605
+      percentile_99: 1742.3442449841605
+  екатеринбург:
+    middle:
+      percentile_1: 1861.1404435058078
+      percentile_50: 1861.1404435058078
+      percentile_99: 1861.1404435058078
+    senior:
+      percentile_1: 1060.5860612460401
+      percentile_50: 1286.9588173178458
+      percentile_99: 1513.3315733896516
+  иваново:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  йошкар-ола:
+    middle:
+      percentile_1: 1451.9535374868003
+      percentile_50: 1451.9535374868003
+      percentile_99: 1451.9535374868003
+  казань:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  калуга:
+    junior:
+      percentile_1: 612.4604012671595
+      percentile_50: 612.4604012671595
+      percentile_99: 612.4604012671595
+  кемерово:
+    middle:
+      percentile_1: 1834.741288278775
+      percentile_50: 1834.741288278775
+      percentile_99: 1834.741288278775
+    senior:
+      percentile_1: 1373.067581837381
+      percentile_50: 1373.067581837381
+      percentile_99: 1373.067581837381
+  краснодар:
+    junior:
+      percentile_1: 844.376979936642
+      percentile_50: 1471.752903907075
+      percentile_99: 2099.128827877508
+    lead:
+      percentile_1: 725.9767687434002
+      percentile_50: 725.9767687434002
+      percentile_99: 725.9767687434002
+    senior:
+      percentile_1: 989.9683210137275
+      percentile_50: 989.9683210137275
+      percentile_99: 989.9683210137275
+  красноярск:
+    senior:
+      percentile_1: 1267.1594508975713
+      percentile_50: 1267.1594508975713
+      percentile_99: 1267.1594508975713
+  москва:
+    junior:
+      percentile_1: 1017.9514255543822
+      percentile_50: 1979.936642027455
+      percentile_99: 2816.261879619852
+    lead:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+    middle:
+      percentile_1: 1194.5617740232312
+      percentile_50: 1557.5501583949313
+      percentile_99: 1966.7370644139387
+    senior:
+      percentile_1: 1746.3041182682155
+      percentile_50: 2045.934530095037
+      percentile_99: 3266.895459345301
+  нижний новгород:
+    middle:
+      percentile_1: 1861.1404435058078
+      percentile_50: 1861.1404435058078
+      percentile_99: 1861.1404435058078
+  новосибирск:
+    junior:
+      percentile_1: 692.7798310454065
+      percentile_50: 1329.857444561774
+      percentile_99: 1966.9350580781413
+    senior:
+      percentile_1: 1380.5090285110875
+      percentile_50: 1745.1399155227032
+      percentile_99: 2109.770802534319
+  омск:
+    middle:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    senior:
+      percentile_1: 422.3864836325237
+      percentile_50: 422.3864836325237
+      percentile_99: 422.3864836325237
+  пермь:
+    junior:
+      percentile_1: 1531.1510031678986
+      percentile_50: 1531.1510031678986
+      percentile_99: 1531.1510031678986
+  санкт-петербург:
+    middle:
+      percentile_1: 875.6599788806758
+      percentile_50: 1095.5649419218585
+      percentile_99: 1315.4699049630412
+  ташкент:
+    senior:
+      percentile_1: 1454.057291429236
+      percentile_50: 1454.057291429236
+      percentile_99: 1454.057291429236
+  ульяновск:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    senior:
+      percentile_1: 1715.9450897571278
+      percentile_50: 1715.9450897571278
+      percentile_99: 1715.9450897571278
+  хабаровск:
+    junior:
+      percentile_1: 3299.8944033790917
+      percentile_50: 3299.8944033790917
+      percentile_99: 3299.8944033790917
+Penetration Tester:
+  воронеж:
+    junior:
+      percentile_1: 857.9725448785639
+      percentile_50: 857.9725448785639
+      percentile_99: 857.9725448785639
+  екатеринбург:
+    junior:
+      percentile_1: 585.0052798310454
+      percentile_50: 791.974656810982
+      percentile_99: 947.2016895459344
+  москва:
+    intern:
+      percentile_1: 568.6378035902851
+      percentile_50: 568.6378035902851
+      percentile_99: 568.6378035902851
+    junior:
+      percentile_1: 584.4772967265047
+      percentile_50: 1570.7497360084476
+      percentile_99: 2127.243928194298
+    middle:
+      percentile_1: 1322.5976768743399
+      percentile_50: 1451.9535374868003
+      percentile_99: 1581.3093980992608
+    senior:
+      percentile_1: 2405.237592397043
+      percentile_50: 3220.6969376979937
+      percentile_99: 3945.089757127772
+  новосибирск:
+    junior:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+  пермь:
+    junior:
+      percentile_1: 897.5712777191129
+      percentile_50: 897.5712777191129
+      percentile_99: 897.5712777191129
+  санкт-петербург:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  тольятти:
+    junior:
+      percentile_1: 607.1805702217529
+      percentile_50: 607.1805702217529
+      percentile_99: 607.1805702217529
+  тула:
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+Product Manager (Tech):
+  алматы:
+    lead:
+      percentile_1: 1090.5918278319034
+      percentile_50: 1090.5918278319034
+      percentile_99: 1090.5918278319034
+  владивосток:
+    junior:
+      percentile_1: 2296.726504751848
+      percentile_50: 2296.726504751848
+      percentile_99: 2296.726504751848
+  воронеж:
+    junior:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+  екатеринбург:
+    junior:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+    middle:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  казань:
+    senior:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+  калининград:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  краснодар:
+    senior:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+  москва:
+    junior:
+      percentile_1: 794.0865892291446
+      percentile_50: 923.9704329461457
+      percentile_99: 1233.3685322069693
+    lead:
+      percentile_1: 1821.858500527983
+      percentile_50: 1837.3812038014785
+      percentile_99: 1852.9039070749736
+    middle:
+      percentile_1: 1268.4794086589227
+      percentile_50: 1979.936642027455
+      percentile_99: 2368.004223864836
+    senior:
+      percentile_1: 1003.1678986272439
+      percentile_50: 1003.1678986272439
+      percentile_99: 1003.1678986272439
+  набережные челны:
+    middle:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  нижний новгород:
+    lead:
+      percentile_1: 2275.791974656811
+      percentile_50: 2275.791974656811
+      percentile_99: 2275.791974656811
+  новосибирск:
+    junior:
+      percentile_1: 531.9429778247096
+      percentile_50: 725.9767687434003
+      percentile_99: 920.0105596620908
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  ростов:
+    junior:
+      percentile_1: 534.5828933474129
+      percentile_50: 857.9725448785639
+      percentile_99: 1181.362196409715
+  самара:
+    senior:
+      percentile_1: 549.1024287222808
+      percentile_50: 549.1024287222808
+      percentile_99: 549.1024287222808
+  санкт-петербург:
+    middle:
+      percentile_1: 661.4334741288278
+      percentile_50: 732.7085533262936
+      percentile_99: 803.9836325237593
+    senior:
+      percentile_1: 2500.0
+      percentile_50: 2500.0
+      percentile_99: 2500.0
+  саратов:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  хабаровск:
+    senior:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+  ярославль:
+    junior:
+      percentile_1: 1214.3611404435057
+      percentile_50: 1214.3611404435057
+      percentile_99: 1214.3611404435057
+Prompt engineer:
+  волгоград:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  москва:
+    lead:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+QA Engineer:
+  алматы:
+    junior:
+      percentile_1: 1038.6588836494318
+      percentile_50: 1038.6588836494318
+      percentile_99: 1038.6588836494318
+  белгород:
+    junior:
+      percentile_1: 976.7687434002112
+      percentile_50: 976.7687434002112
+      percentile_99: 976.7687434002112
+  владивосток:
+    junior:
+      percentile_1: 1742.3442449841605
+      percentile_50: 1742.3442449841605
+      percentile_99: 1742.3442449841605
+  воронеж:
+    junior:
+      percentile_1: 976.7687434002112
+      percentile_50: 976.7687434002112
+      percentile_99: 976.7687434002112
+  екатеринбург:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  казань:
+    junior:
+      percentile_1: 793.2946145723336
+      percentile_50: 857.9725448785639
+      percentile_99: 896.7793030623019
+  краснодар:
+    junior:
+      percentile_1: 897.5712777191129
+      percentile_50: 897.5712777191129
+      percentile_99: 897.5712777191129
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  минск:
+    middle:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+  москва:
+    intern:
+      percentile_1: 316.78986272439283
+      percentile_50: 316.78986272439283
+      percentile_99: 316.78986272439283
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 1372.7560718057023
+      percentile_99: 3181.0982048574447
+    lead:
+      percentile_1: 1335.7972544878564
+      percentile_50: 2111.932418162619
+      percentile_99: 2888.067581837381
+    middle:
+      percentile_1: 1747.8880675818373
+      percentile_50: 2213.5691657866946
+      percentile_99: 2838.014783526927
+    senior:
+      percentile_1: 1695.8817317845828
+      percentile_50: 2375.923970432946
+      percentile_99: 3915.4783526927135
+  нижний новгород:
+    junior:
+      percentile_1: 897.5712777191129
+      percentile_50: 897.5712777191129
+      percentile_99: 897.5712777191129
+    middle:
+      percentile_1: 1913.9387539598733
+      percentile_50: 1913.9387539598733
+      percentile_99: 1913.9387539598733
+  новосибирск:
+    junior:
+      percentile_1: 1465.2851108764519
+      percentile_50: 1471.752903907075
+      percentile_99: 1478.220696937698
+  ростов:
+    junior:
+      percentile_1: 534.2032734952481
+      percentile_50: 838.9915522703274
+      percentile_99: 1143.7798310454066
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  самара:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 857.9725448785639
+      percentile_99: 1353.8458289334742
+  санкт-петербург:
+    junior:
+      percentile_1: 534.3189017951426
+      percentile_50: 950.3695881731784
+      percentile_99: 1655.4804646251316
+    middle:
+      percentile_1: 966.209081309398
+      percentile_50: 1742.3442449841605
+      percentile_99: 2208.025343189018
+    senior:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+  тула:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  чебоксары:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+Research Software Engineer:
+  астана:
+    junior:
+      percentile_1: 649.1618022808949
+      percentile_50: 649.1618022808949
+      percentile_99: 649.1618022808949
+  барнаул:
+    junior:
+      percentile_1: 1161.5628299894404
+      percentile_50: 1161.5628299894404
+      percentile_99: 1161.5628299894404
+    lead:
+      percentile_1: 1451.9535374868003
+      percentile_50: 1451.9535374868003
+      percentile_99: 1451.9535374868003
+    middle:
+      percentile_1: 1161.5628299894404
+      percentile_50: 1161.5628299894404
+      percentile_99: 1161.5628299894404
+  белгород:
+    junior:
+      percentile_1: 1478.3526927138332
+      percentile_50: 1478.3526927138332
+      percentile_99: 1478.3526927138332
+  владивосток:
+    junior:
+      percentile_1: 1803.5902851108763
+      percentile_50: 2217.5290390707496
+      percentile_99: 2631.467793030623
+    lead:
+      percentile_1: 2745.5121436114046
+      percentile_50: 2745.5121436114046
+      percentile_99: 2745.5121436114046
+  владимир:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  вологда:
+    junior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  воронеж:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  екатеринбург:
+    junior:
+      percentile_1: 726.636747624076
+      percentile_50: 758.9757127771911
+      percentile_99: 791.3146779303062
+    middle:
+      percentile_1: 844.7729672650474
+      percentile_50: 844.7729672650474
+      percentile_99: 844.7729672650474
+    senior:
+      percentile_1: 925.2903907074973
+      percentile_50: 989.9683210137275
+      percentile_99: 1054.6462513199579
+  зеленоград:
+    junior:
+      percentile_1: 1986.5364308342132
+      percentile_50: 2309.926082365364
+      percentile_99: 2633.315733896515
+  ижевск:
+    senior:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  казань:
+    junior:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  калининград:
+    junior:
+      percentile_1: 400.79197465681096
+      percentile_50: 636.2196409714888
+      percentile_99: 871.6473072861668
+  калуга:
+    junior:
+      percentile_1: 1003.1678986272439
+      percentile_50: 1003.1678986272439
+      percentile_99: 1003.1678986272439
+  кемерово:
+    junior:
+      percentile_1: 1425.5543822597676
+      percentile_50: 1425.5543822597676
+      percentile_99: 1425.5543822597676
+  киров:
+    senior:
+      percentile_1: 3299.8944033790917
+      percentile_50: 3299.8944033790917
+      percentile_99: 3299.8944033790917
+  красноярск:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    middle:
+      percentile_1: 1121.9640971488911
+      percentile_50: 1121.9640971488911
+      percentile_99: 1121.9640971488911
+    senior:
+      percentile_1: 1067.8458289334742
+      percentile_50: 1649.9472016895459
+      percentile_99: 2232.0485744456173
+  курск:
+    junior:
+      percentile_1: 1953.5374868004224
+      percentile_50: 1953.5374868004224
+      percentile_99: 1953.5374868004224
+  минск:
+    junior:
+      percentile_1: 449.46153846153845
+      percentile_50: 988.4615384615385
+      percentile_99: 1527.4615384615386
+    senior:
+      percentile_1: 803.8461538461538
+      percentile_50: 803.8461538461538
+      percentile_99: 803.8461538461538
+  москва:
+    junior:
+      percentile_1: 351.7687434002112
+      percentile_50: 1861.1404435058078
+      percentile_99: 3299.8944033790917
+    lead:
+      percentile_1: 2012.6715945089757
+      percentile_50: 2230.728616684266
+      percentile_99: 3268.2154171066522
+    middle:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1979.936642027455
+      percentile_99: 4065.46990496304
+    senior:
+      percentile_1: 1210.6652587117212
+      percentile_50: 2639.9155227032734
+      percentile_99: 5193.083421330518
+  набережные челны:
+    junior:
+      percentile_1: 1715.9450897571278
+      percentile_50: 1715.9450897571278
+      percentile_99: 1715.9450897571278
+    senior:
+      percentile_1: 1499.4720168954593
+      percentile_50: 1499.4720168954593
+      percentile_99: 1499.4720168954593
+  нижний новгород:
+    junior:
+      percentile_1: 1214.3611404435057
+      percentile_50: 1214.3611404435057
+      percentile_99: 1214.3611404435057
+    middle:
+      percentile_1: 1208.6536430834212
+      percentile_50: 1420.5385427666315
+      percentile_99: 1632.4234424498416
+    senior:
+      percentile_1: 1853.220696937698
+      percentile_50: 2111.932418162619
+      percentile_99: 2370.6441393875393
+  новокузнецк:
+    junior:
+      percentile_1: 1435.9820485744456
+      percentile_50: 1435.9820485744456
+      percentile_99: 1435.9820485744456
+  новосибирск:
+    junior:
+      percentile_1: 1163.1467793030624
+      percentile_50: 1240.7602956705387
+      percentile_99: 1318.3738120380146
+    middle:
+      percentile_1: 3012.4076029567054
+      percentile_50: 3154.6990496304115
+      percentile_99: 3296.990496304118
+    senior:
+      percentile_1: 1614.3083421330516
+      percentile_50: 3101.900739176346
+      percentile_99: 4589.493136219641
+  омск:
+    middle:
+      percentile_1: 633.5797254487857
+      percentile_50: 633.5797254487857
+      percentile_99: 633.5797254487857
+  пенза:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  пермь:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    senior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  ростов:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    middle:
+      percentile_1: 989.9683210137275
+      percentile_50: 989.9683210137275
+      percentile_99: 989.9683210137275
+  самара:
+    junior:
+      percentile_1: 960.6652587117212
+      percentile_50: 1465.1531151003169
+      percentile_99: 1969.6409714889123
+    middle:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  санкт-петербург:
+    junior:
+      percentile_1: 593.1890179514255
+      percentile_50: 1319.9577613516367
+      percentile_99: 3210.1372756071796
+    lead:
+      percentile_1: 864.7043294614573
+      percentile_50: 1597.1488912354805
+      percentile_99: 2624.0760295670534
+    middle:
+      percentile_1: 1039.0707497360083
+      percentile_50: 1583.949313621964
+      percentile_99: 2612.4604012671593
+    senior:
+      percentile_1: 1323.6536430834212
+      percentile_50: 1649.9472016895459
+      percentile_99: 2863.1995776135163
+  саратов:
+    senior:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+  смоленск:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  ташкент:
+    middle:
+      percentile_1: 1600.0
+      percentile_50: 1600.0
+      percentile_99: 1600.0
+    senior:
+      percentile_1: 2475.827280001132
+      percentile_50: 2475.827280001132
+      percentile_99: 2475.827280001132
+  тбилиси:
+    junior:
+      percentile_1: 1250.0
+      percentile_50: 1250.0
+      percentile_99: 1250.0
+    senior:
+      percentile_1: 3750.0
+      percentile_50: 3750.0
+      percentile_99: 3750.0
+  тольятти:
+    junior:
+      percentile_1: 637.4340021119325
+      percentile_50: 826.2935586061246
+      percentile_99: 1827.507919746568
+  томск:
+    junior:
+      percentile_1: 745.5121436114044
+      percentile_50: 1055.9662090813094
+      percentile_99: 1185.32206969377
+    middle:
+      percentile_1: 862.5923970432946
+      percentile_50: 1088.9651531151003
+      percentile_99: 1315.337909186906
+  тула:
+    junior:
+      percentile_1: 385.42766631467794
+      percentile_50: 385.42766631467794
+      percentile_99: 385.42766631467794
+  уфа:
+    junior:
+      percentile_1: 544.2449841605069
+      percentile_50: 823.6536430834212
+      percentile_99: 1103.0623020063358
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  чебоксары:
+    junior:
+      percentile_1: 928.1942977824709
+      percentile_50: 2428.7222808870115
+      percentile_99: 3929.250263991552
+    middle:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  челябинск:
+    junior:
+      percentile_1: 666.0506863780358
+      percentile_50: 963.5691657866948
+      percentile_99: 1261.0876451953538
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+SCRUM Master:
+  астана:
+    senior:
+      percentile_1: 2336.9824882112216
+      percentile_50: 2336.9824882112216
+      percentile_99: 2336.9824882112216
+  казань:
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  москва:
+    lead:
+      percentile_1: 1923.9704329461456
+      percentile_50: 3062.302006335797
+      percentile_99: 4200.633579725449
+    senior:
+      percentile_1: 4487.856388595565
+      percentile_50: 4487.856388595565
+      percentile_99: 4487.856388595565
+  нижний новгород:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  новосибирск:
+    lead:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  санкт-петербург:
+    senior:
+      percentile_1: 2270.327349524815
+      percentile_50: 2270.327349524815
+      percentile_99: 2270.327349524815
+Sales:
+  екатеринбург:
+    junior:
+      percentile_1: 1214.3611404435057
+      percentile_50: 1214.3611404435057
+      percentile_99: 1214.3611404435057
+  красноярск:
+    lead:
+      percentile_1: 1214.3611404435057
+      percentile_50: 1214.3611404435057
+      percentile_99: 1214.3611404435057
+  москва:
+    junior:
+      percentile_1: 1214.3611404435057
+      percentile_50: 1214.3611404435057
+      percentile_99: 1214.3611404435057
+Security Engineer:
+  белгород:
+    middle:
+      percentile_1: 340.5491024287223
+      percentile_50: 340.5491024287223
+      percentile_99: 340.5491024287223
+  владивосток:
+    lead:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    senior:
+      percentile_1: 794.6145723336853
+      percentile_50: 923.9704329461457
+      percentile_99: 1053.3262935586063
+  вологда:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  ижевск:
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  казань:
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  кемерово:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  красноярск:
+    junior:
+      percentile_1: 633.5797254487857
+      percentile_50: 633.5797254487857
+      percentile_99: 633.5797254487857
+    senior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  москва:
+    junior:
+      percentile_1: 930.5702217529039
+      percentile_50: 1253.9598732840548
+      percentile_99: 1577.3495248152058
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    middle:
+      percentile_1: 1671.066525871172
+      percentile_50: 1671.066525871172
+      percentile_99: 1671.066525871172
+    senior:
+      percentile_1: 597.1488912354805
+      percentile_50: 2217.5290390707496
+      percentile_99: 3299.8944033790917
+  нижний новгород:
+    middle:
+      percentile_1: 588.5638859556494
+      percentile_50: 588.5638859556494
+      percentile_99: 588.5638859556494
+  пермь:
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  ростов:
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  самара:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    senior:
+      percentile_1: 2798.31045406547
+      percentile_50: 2798.31045406547
+      percentile_99: 2798.31045406547
+  санкт-петербург:
+    lead:
+      percentile_1: 3299.8944033790917
+      percentile_50: 3299.8944033790917
+      percentile_99: 3299.8944033790917
+  ташкент:
+    junior:
+      percentile_1: 668.0803771431625
+      percentile_50: 668.0803771431625
+      percentile_99: 668.0803771431625
+  томск:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  тюмень:
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  ярославль:
+    senior:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+Software Architect:
+  алматы:
+    junior:
+      percentile_1: 1246.3906603793182
+      percentile_50: 1246.3906603793182
+      percentile_99: 1246.3906603793182
+    senior:
+      percentile_1: 2625.680737032344
+      percentile_50: 4048.3236045617896
+      percentile_99: 5470.966472091235
+  астана:
+    junior:
+      percentile_1: 1305.5942167473358
+      percentile_50: 1661.854213839091
+      percentile_99: 1865.4313550343797
+    senior:
+      percentile_1: 1350.2565487442614
+      percentile_50: 1350.2565487442614
+      percentile_99: 1350.2565487442614
+  барнаул:
+    junior:
+      percentile_1: 897.5712777191129
+      percentile_50: 897.5712777191129
+      percentile_99: 897.5712777191129
+  белгород:
+    middle:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+    senior:
+      percentile_1: 1497.7824709609292
+      percentile_50: 1932.418162618796
+      percentile_99: 2367.053854276663
+  владивосток:
+    junior:
+      percentile_1: 2247.624076029567
+      percentile_50: 2428.7222808870115
+      percentile_99: 2428.7222808870115
+    senior:
+      percentile_1: 2323.125659978881
+      percentile_50: 2323.125659978881
+      percentile_99: 2323.125659978881
+  волгоград:
+    junior:
+      percentile_1: 369.5881731784583
+      percentile_50: 369.5881731784583
+      percentile_99: 369.5881731784583
+    middle:
+      percentile_1: 1999.7360084477295
+      percentile_50: 2969.904963041183
+      percentile_99: 3940.0739176346356
+    senior:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  воронеж:
+    junior:
+      percentile_1: 497.9936642027455
+      percentile_50: 1121.9640971488911
+      percentile_99: 2561.351636747624
+    middle:
+      percentile_1: 1858.5005279831046
+      percentile_50: 2375.923970432946
+      percentile_99: 2893.3474128827875
+    senior:
+      percentile_1: 970.9609292502639
+      percentile_50: 1979.936642027455
+      percentile_99: 2626.715945089757
+  екатеринбург:
+    junior:
+      percentile_1: 1077.0855332629355
+      percentile_50: 1953.5374868004224
+      percentile_99: 2111.932418162619
+    middle:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+    senior:
+      percentile_1: 1178.4582893347413
+      percentile_50: 1847.9408658922914
+      percentile_99: 3632.5237592397043
+  иваново:
+    senior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  иркутск:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    middle:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+    senior:
+      percentile_1: 1531.8109820485745
+      percentile_50: 2210.9292502639914
+      percentile_99: 2890.0475184794086
+  йошкар-ола:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  казань:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    middle:
+      percentile_1: 1993.1362196409714
+      percentile_50: 2639.9155227032734
+      percentile_99: 2898.6272439281943
+    senior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  калининград:
+    junior:
+      percentile_1: 686.3780359028511
+      percentile_50: 686.3780359028511
+      percentile_99: 686.3780359028511
+  калуга:
+    lead:
+      percentile_1: 1372.7560718057023
+      percentile_50: 1372.7560718057023
+      percentile_99: 1372.7560718057023
+    middle:
+      percentile_1: 2996.832101372756
+      percentile_50: 2996.832101372756
+      percentile_99: 2996.832101372756
+  кемерово:
+    intern:
+      percentile_1: 422.3864836325237
+      percentile_50: 422.3864836325237
+      percentile_99: 422.3864836325237
+    middle:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+  киров:
+    junior:
+      percentile_1: 1850.5807814149946
+      percentile_50: 1979.936642027455
+      percentile_99: 2303.3262935586063
+    middle:
+      percentile_1: 943.7697993664202
+      percentile_50: 1913.9387539598733
+      percentile_99: 2884.107708553326
+  краснодар:
+    middle:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+    senior:
+      percentile_1: 1493.9281942977825
+      percentile_50: 2257.1277719112986
+      percentile_99: 3020.327349524815
+  красноярск:
+    junior:
+      percentile_1: 1161.5628299894404
+      percentile_50: 1187.961985216473
+      percentile_99: 2230.728616684266
+    middle:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+    senior:
+      percentile_1: 2534.3189017951427
+      percentile_50: 2534.3189017951427
+      percentile_99: 2534.3189017951427
+  курск:
+    junior:
+      percentile_1: 562.0380147835269
+      percentile_50: 937.170010559662
+      percentile_99: 1312.3020063357972
+    lead:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+    middle:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  липецк:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  москва:
+    junior:
+      percentile_1: 463.5691657866948
+      percentile_50: 1847.9408658922914
+      percentile_99: 3299.8944033790917
+    lead:
+      percentile_1: 1349.7888067581837
+      percentile_50: 3563.885955649419
+      percentile_99: 3959.87328405491
+    middle:
+      percentile_1: 1378.0359028511086
+      percentile_50: 2728.5638859556493
+      percentile_99: 4330.51742344245
+    senior:
+      percentile_1: 1034.3189017951424
+      percentile_50: 2771.9112988384372
+      percentile_99: 5029.0390707497345
+  набережные челны:
+    junior:
+      percentile_1: 1322.5976768743399
+      percentile_50: 1451.9535374868003
+      percentile_99: 1581.3093980992608
+    middle:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  нижний новгород:
+    junior:
+      percentile_1: 813.0939809926082
+      percentile_50: 1583.949313621964
+      percentile_99: 2360.0844772967266
+    lead:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+    senior:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+  новосибирск:
+    junior:
+      percentile_1: 852.6927138331573
+      percentile_50: 1319.9577613516367
+      percentile_99: 1631.467793030623
+    lead:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+    middle:
+      percentile_1: 1953.5374868004224
+      percentile_50: 1953.5374868004224
+      percentile_99: 1953.5374868004224
+    senior:
+      percentile_1: 1335.7972544878564
+      percentile_50: 1913.9387539598733
+      percentile_99: 3516.36747624076
+  омск:
+    intern:
+      percentile_1: 316.78986272439283
+      percentile_50: 316.78986272439283
+      percentile_99: 316.78986272439283
+    junior:
+      percentile_1: 326.82154171066526
+      percentile_50: 818.3738120380148
+      percentile_99: 1309.9260823653642
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  оренбург:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+    middle:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+  пермь:
+    junior:
+      percentile_1: 1175.2903907074974
+      percentile_50: 1847.9408658922914
+      percentile_99: 2106.6525871172125
+    senior:
+      percentile_1: 2771.9112988384372
+      percentile_50: 2771.9112988384372
+      percentile_99: 2771.9112988384372
+  ростов:
+    junior:
+      percentile_1: 1329.197465681098
+      percentile_50: 1781.9429778247095
+      percentile_99: 2234.688489968321
+    senior:
+      percentile_1: 2251.8479408658923
+      percentile_50: 2639.9155227032734
+      percentile_99: 3027.9831045406545
+  рязань:
+    junior:
+      percentile_1: 927.9303062302006
+      percentile_50: 1121.9640971488911
+      percentile_99: 1315.9978880675817
+  самара:
+    junior:
+      percentile_1: 1588.1731784582892
+      percentile_50: 1795.1425554382258
+      percentile_99: 1976.2407602956705
+    lead:
+      percentile_1: 2006.3357972544877
+      percentile_50: 2006.3357972544877
+      percentile_99: 2006.3357972544877
+    senior:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+  санкт-петербург:
+    junior:
+      percentile_1: 750.791974656811
+      percentile_50: 1583.949313621964
+      percentile_99: 2528.5110876451954
+    lead:
+      percentile_1: 891.6314677930307
+      percentile_50: 2441.921858500528
+      percentile_99: 3006.3357972544877
+    middle:
+      percentile_1: 1075.765575501584
+      percentile_50: 2045.934530095037
+      percentile_99: 3912.354804646251
+    senior:
+      percentile_1: 936.3780359028511
+      percentile_50: 2059.1341077085535
+      percentile_99: 3877.5079197465675
+  саратов:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  симферополь:
+    middle:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  смоленск:
+    middle:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+    senior:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  сочи:
+    intern:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+    senior:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+  ставрополь:
+    middle:
+      percentile_1: 2903.9070749736006
+      percentile_50: 2903.9070749736006
+      percentile_99: 2903.9070749736006
+    senior:
+      percentile_1: 2243.9281942977823
+      percentile_50: 2243.9281942977823
+      percentile_99: 2243.9281942977823
+  ташкент:
+    junior:
+      percentile_1: 504.0076962859447
+      percentile_50: 1129.8418142862306
+      percentile_99: 1755.6759322865166
+    senior:
+      percentile_1: 1125.0
+      percentile_50: 1125.0
+      percentile_99: 1125.0
+  тверь:
+    junior:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+    middle:
+      percentile_1: 2642.5554382259766
+      percentile_50: 2771.911298838437
+      percentile_99: 2901.2671594508975
+    senior:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  тольятти:
+    junior:
+      percentile_1: 336.58922914466734
+      percentile_50: 659.9788806758183
+      percentile_99: 737.5923970432947
+  томск:
+    junior:
+      percentile_1: 1190.337909186906
+      percentile_50: 1306.7581837381204
+      percentile_99: 1423.1784582893347
+    senior:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+  тюмень:
+    junior:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  уфа:
+    junior:
+      percentile_1: 468.585005279831
+      percentile_50: 791.974656810982
+      percentile_99: 1930.3062302006335
+  хабаровск:
+    junior:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+  челябинск:
+    junior:
+      percentile_1: 407.86694825765574
+      percentile_50: 989.9683210137274
+      percentile_99: 1572.069693769799
+    lead:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+    middle:
+      percentile_1: 1561.7740232312565
+      percentile_50: 1561.7740232312565
+      percentile_99: 1561.7740232312565
+    senior:
+      percentile_1: 3299.8944033790917
+      percentile_50: 3299.8944033790917
+      percentile_99: 3299.8944033790917
+  ярославль:
+    junior:
+      percentile_1: 371.4361140443506
+      percentile_50: 461.98521647307285
+      percentile_99: 552.5343189017951
+Systems Administrator:
+  алматы:
+    junior:
+      percentile_1: 392.3533932985729
+      percentile_50: 532.3126778703338
+      percentile_99: 672.2719624420947
+    senior:
+      percentile_1: 651.7584494900185
+      percentile_50: 778.9941627370739
+      percentile_99: 829.8884480358961
+  астана:
+    junior:
+      percentile_1: 470.51247429319267
+      percentile_50: 623.1953301896591
+      percentile_99: 775.8781860861257
+    middle:
+      percentile_1: 585.1804150480899
+      percentile_50: 758.2209850640852
+      percentile_99: 931.2615550800806
+  барнаул:
+    junior:
+      percentile_1: 593.9809926082365
+      percentile_50: 593.9809926082365
+      percentile_99: 593.9809926082365
+    lead:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  белгород:
+    junior:
+      percentile_1: 438.62196409714886
+      percentile_50: 587.3812038014784
+      percentile_99: 736.1404435058079
+    middle:
+      percentile_1: 551.2143611404435
+      percentile_50: 551.2143611404435
+      percentile_99: 551.2143611404435
+  владивосток:
+    junior:
+      percentile_1: 506.33579725448783
+      percentile_50: 739.1763463569166
+      percentile_99: 1319.9577613516367
+    middle:
+      percentile_1: 792.5110876451953
+      percentile_50: 818.7961985216473
+      percentile_99: 845.0813093980992
+  владимир:
+    senior:
+      percentile_1: 2185.8500527983106
+      percentile_50: 2185.8500527983106
+      percentile_99: 2185.8500527983106
+  волгоград:
+    junior:
+      percentile_1: 423.442449841605
+      percentile_50: 475.18479408658925
+      percentile_99: 526.9271383315734
+    middle:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+    senior:
+      percentile_1: 712.7771911298838
+      percentile_50: 712.7771911298838
+      percentile_99: 712.7771911298838
+  вологда:
+    junior:
+      percentile_1: 322.06969376979936
+      percentile_50: 322.06969376979936
+      percentile_99: 322.06969376979936
+    middle:
+      percentile_1: 464.4403379091869
+      percentile_50: 584.7412882787751
+      percentile_99: 705.0422386483632
+    senior:
+      percentile_1: 601.9007391763464
+      percentile_50: 989.9683210137275
+      percentile_99: 1572.0696937697992
+  воронеж:
+    junior:
+      percentile_1: 670.0105596620908
+      percentile_50: 989.9683210137275
+      percentile_99: 1130.9398099260823
+    middle:
+      percentile_1: 898.495248152059
+      percentile_50: 943.7697993664202
+      percentile_99: 989.0443505807814
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  екатеринбург:
+    junior:
+      percentile_1: 476.50475184794084
+      percentile_50: 659.9788806758183
+      percentile_99: 1040.12671594509
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    middle:
+      percentile_1: 523.0992608236536
+      percentile_50: 855.3326293558605
+      percentile_99: 1147.8748680042238
+    senior:
+      percentile_1: 539.5987328405491
+      percentile_50: 1187.961985216473
+      percentile_99: 1263.9915522703275
+  зеленоград:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    senior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  иваново:
+    junior:
+      percentile_1: 348.57444561774025
+      percentile_50: 612.4604012671595
+      percentile_99: 788.3843717001055
+    middle:
+      percentile_1: 844.7729672650474
+      percentile_50: 844.7729672650474
+      percentile_99: 844.7729672650474
+    senior:
+      percentile_1: 1116.6842661034846
+      percentile_50: 1116.6842661034846
+      percentile_99: 1116.6842661034846
+  ижевск:
+    junior:
+      percentile_1: 397.57127771911297
+      percentile_50: 475.1847940865892
+      percentile_99: 630.4118268215417
+  иркутск:
+    junior:
+      percentile_1: 327.0855332629356
+      percentile_50: 739.1763463569166
+      percentile_99: 856.7845828933474
+  йошкар-ола:
+    junior:
+      percentile_1: 628.2998944033791
+      percentile_50: 628.2998944033791
+      percentile_99: 628.2998944033791
+  казань:
+    junior:
+      percentile_1: 589.2291446673706
+      percentile_50: 908.1309398099261
+      percentile_99: 1317.845828933474
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    senior:
+      percentile_1: 1869.0601900739175
+      percentile_50: 1869.0601900739175
+      percentile_99: 1869.0601900739175
+  калининград:
+    junior:
+      percentile_1: 636.7476240760296
+      percentile_50: 791.974656810982
+      percentile_99: 921.3305174234424
+    senior:
+      percentile_1: 347.67687434002113
+      percentile_50: 567.5818373812037
+      percentile_99: 787.4868004223864
+  кемерово:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+    middle:
+      percentile_1: 594.6409714889123
+      percentile_50: 626.9799366420275
+      percentile_99: 659.3189017951426
+  киров:
+    junior:
+      percentile_1: 688.4899683210137
+      percentile_50: 791.974656810982
+      percentile_99: 1050.6863780359029
+    senior:
+      percentile_1: 1116.6842661034846
+      percentile_50: 1116.6842661034846
+      percentile_99: 1116.6842661034846
+  краснодар:
+    junior:
+      percentile_1: 715.9450897571278
+      percentile_50: 791.974656810982
+      percentile_99: 920.8025343189017
+    lead:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+    middle:
+      percentile_1: 628.895459345301
+      percentile_50: 939.8099260823653
+      percentile_99: 1309.3980992608235
+    senior:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+  красноярск:
+    junior:
+      percentile_1: 488.70116156282995
+      percentile_50: 824.9736008447729
+      percentile_99: 948.5216473072861
+    senior:
+      percentile_1: 688.7539598732841
+      percentile_50: 805.1742344244984
+      percentile_99: 921.5945089757128
+  курск:
+    junior:
+      percentile_1: 529.9630411826822
+      percentile_50: 626.9799366420275
+      percentile_99: 723.9968321013727
+  липецк:
+    junior:
+      percentile_1: 337.7771911298838
+      percentile_50: 719.376979936642
+      percentile_99: 1100.9767687434
+    middle:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+    senior:
+      percentile_1: 712.7771911298838
+      percentile_50: 712.7771911298838
+      percentile_99: 712.7771911298838
+  минск:
+    junior:
+      percentile_1: 449.2307692307692
+      percentile_50: 846.1538461538462
+      percentile_99: 1692.3076923076924
+    lead:
+      percentile_1: 538.8461538461538
+      percentile_50: 557.6923076923076
+      percentile_99: 576.5384615384615
+    middle:
+      percentile_1: 617.2307692307692
+      percentile_50: 707.6923076923077
+      percentile_99: 843.3846153846155
+  москва:
+    junior:
+      percentile_1: 389.65153115100316
+      percentile_50: 1003.1678986272439
+      percentile_99: 1655.2270327349522
+    lead:
+      percentile_1: 794.3505807814149
+      percentile_50: 1260.5596620908132
+      percentile_99: 3122.3600844772964
+    middle:
+      percentile_1: 878.0359028511087
+      percentile_50: 1374.340021119324
+      percentile_99: 1979.936642027455
+    senior:
+      percentile_1: 989.4403379091868
+      percentile_50: 1900.7391763463568
+      percentile_99: 2723.072861668427
+  набережные челны:
+    junior:
+      percentile_1: 544.6092925026398
+      percentile_50: 841.8690601900739
+      percentile_99: 1139.1288278775078
+  нижний новгород:
+    junior:
+      percentile_1: 623.1520591341076
+      percentile_50: 758.9757127771911
+      percentile_99: 894.7993664202745
+    middle:
+      percentile_1: 993.2682154171066
+      percentile_50: 1154.963041182682
+      percentile_99: 1316.6578669482576
+    senior:
+      percentile_1: 878.7222808870116
+      percentile_50: 989.9683210137275
+      percentile_99: 1054.6462513199579
+  новокузнецк:
+    junior:
+      percentile_1: 844.7729672650474
+      percentile_50: 844.7729672650474
+      percentile_99: 844.7729672650474
+    lead:
+      percentile_1: 1121.9640971488911
+      percentile_50: 1121.9640971488911
+      percentile_99: 1121.9640971488911
+    middle:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  новосибирск:
+    junior:
+      percentile_1: 595.5649419218585
+      percentile_50: 659.9788806758183
+      percentile_99: 1174.7624076029567
+    senior:
+      percentile_1: 793.2946145723336
+      percentile_50: 857.9725448785639
+      percentile_99: 922.650475184794
+  омск:
+    junior:
+      percentile_1: 674.1024287222808
+      percentile_50: 719.376979936642
+      percentile_99: 764.6515311510032
+    middle:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+    senior:
+      percentile_1: 1267.1594508975713
+      percentile_50: 1267.1594508975713
+      percentile_99: 1267.1594508975713
+  оренбург:
+    middle:
+      percentile_1: 596.6209081309398
+      percentile_50: 596.6209081309398
+      percentile_99: 596.6209081309398
+  пенза:
+    junior:
+      percentile_1: 323.5876451953538
+      percentile_50: 656.6789862724393
+      percentile_99: 989.7703273495248
+    middle:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  пермь:
+    junior:
+      percentile_1: 479.14466737064413
+      percentile_50: 574.1816261879619
+      percentile_99: 782.0749736008447
+    middle:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+    senior:
+      percentile_1: 462.64519535374865
+      percentile_50: 494.98416050686376
+      percentile_99: 527.3231256599789
+  ростов:
+    junior:
+      percentile_1: 480.72861668426606
+      percentile_50: 659.9788806758183
+      percentile_99: 788.014783526927
+    middle:
+      percentile_1: 794.6145723336853
+      percentile_50: 923.9704329461457
+      percentile_99: 1053.3262935586063
+  рязань:
+    junior:
+      percentile_1: 373.2840549102429
+      percentile_50: 600.5807814149947
+      percentile_99: 1434.9260823653642
+    senior:
+      percentile_1: 675.818373812038
+      percentile_50: 675.818373812038
+      percentile_99: 675.818373812038
+  самара:
+    junior:
+      percentile_1: 556.4545934530095
+      percentile_50: 657.9989440337908
+      percentile_99: 759.5432946145723
+    middle:
+      percentile_1: 663.5427666314678
+      percentile_50: 838.1731784582894
+      percentile_99: 1012.8035902851109
+    senior:
+      percentile_1: 835.3854276663147
+      percentile_50: 944.5617740232312
+      percentile_99: 1053.7381203801478
+  санкт-петербург:
+    junior:
+      percentile_1: 484.1605068637803
+      percentile_50: 871.1721224920802
+      percentile_99: 1297.5184794086585
+    lead:
+      percentile_1: 1214.3611404435057
+      percentile_50: 1214.3611404435057
+      percentile_99: 1214.3611404435057
+    middle:
+      percentile_1: 691.6578669482576
+      percentile_50: 1121.9640971488911
+      percentile_99: 2048.57444561774
+    senior:
+      percentile_1: 639.2555438225976
+      percentile_50: 1187.961985216473
+      percentile_99: 2534.3189017951427
+  смоленск:
+    junior:
+      percentile_1: 597.2808870116156
+      percentile_50: 758.9757127771911
+      percentile_99: 920.6705385427666
+    senior:
+      percentile_1: 353.7486800422386
+      percentile_50: 353.7486800422386
+      percentile_99: 353.7486800422386
+  сочи:
+    junior:
+      percentile_1: 528.2998944033791
+      percentile_50: 543.8225976768744
+      percentile_99: 631.7845828933474
+  ташкент:
+    junior:
+      percentile_1: 393.7744340573229
+      percentile_50: 432.2873028573405
+      percentile_99: 470.8001716573581
+    middle:
+      percentile_1: 812.5
+      percentile_50: 812.5
+      percentile_99: 812.5
+  тольятти:
+    junior:
+      percentile_1: 504.75184794086584
+      percentile_50: 749.0760295670539
+      percentile_99: 1179.0522703273496
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  томск:
+    junior:
+      percentile_1: 597.9408658922914
+      percentile_50: 791.974656810982
+      percentile_99: 986.0084477296725
+    lead:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  тула:
+    junior:
+      percentile_1: 387.117212249208
+      percentile_50: 580.7814149947202
+      percentile_99: 658.3949313621964
+    middle:
+      percentile_1: 1187.961985216473
+      percentile_50: 1187.961985216473
+      percentile_99: 1187.961985216473
+  тюмень:
+    junior:
+      percentile_1: 405.88701161562824
+      percentile_50: 735.1768743400211
+      percentile_99: 1366.708289334741
+    senior:
+      percentile_1: 641.4994720168955
+      percentile_50: 1029.5670538542765
+      percentile_99: 1883.3157338965152
+  ульяновск:
+    junior:
+      percentile_1: 528.6430834213305
+      percentile_50: 560.9820485744456
+      percentile_99: 593.3210137275607
+    middle:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  уфа:
+    junior:
+      percentile_1: 475.97676874340016
+      percentile_50: 514.7835269271383
+      percentile_99: 553.5902851108764
+    lead:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    middle:
+      percentile_1: 427.40232312565996
+      percentile_50: 673.1784582893347
+      percentile_99: 918.9545934530095
+    senior:
+      percentile_1: 660.7708553326294
+      percentile_50: 699.5776135163675
+      percentile_99: 738.3843717001056
+  хабаровск:
+    junior:
+      percentile_1: 857.9725448785639
+      percentile_50: 857.9725448785639
+      percentile_99: 857.9725448785639
+    senior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  чебоксары:
+    junior:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+  челябинск:
+    junior:
+      percentile_1: 507.4973600844773
+      percentile_50: 560.9820485744456
+      percentile_99: 672.8511087645195
+    middle:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    senior:
+      percentile_1: 793.0306230200633
+      percentile_50: 844.7729672650474
+      percentile_99: 987.0644139387539
+  ярославль:
+    senior:
+      percentile_1: 1116.6842661034846
+      percentile_50: 1116.6842661034846
+      percentile_99: 1116.6842661034846
+Teacher:
+  москва:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    senior:
+      percentile_1: 1821.5417106652587
+      percentile_50: 1821.5417106652587
+      percentile_99: 1821.5417106652587
+  санкт-петербург:
+    middle:
+      percentile_1: 527.9831045406547
+      percentile_50: 527.9831045406547
+      percentile_99: 527.9831045406547
+  ярославль:
+    middle:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+Tech Support Specialist:
+  алматы:
+    junior:
+      percentile_1: 369.7625625791977
+      percentile_50: 519.3294418247159
+      percentile_99: 908.8265231932529
+    middle:
+      percentile_1: 649.1618022808949
+      percentile_50: 649.1618022808949
+      percentile_99: 649.1618022808949
+  астана:
+    junior:
+      percentile_1: 727.5805479964271
+      percentile_50: 753.0276906458381
+      percentile_99: 778.4748332952491
+    senior:
+      percentile_1: 389.49708136853695
+      percentile_50: 389.49708136853695
+      percentile_99: 389.49708136853695
+  астрахань:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 459.34530095036956
+      percentile_99: 729.2502639915523
+  барнаул:
+    junior:
+      percentile_1: 396.9376979936642
+      percentile_50: 527.9831045406547
+      percentile_99: 879.0707497360082
+  белгород:
+    junior:
+      percentile_1: 321.2249208025343
+      percentile_50: 468.585005279831
+      percentile_99: 825.5543822597675
+  владивосток:
+    intern:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+    junior:
+      percentile_1: 407.86694825765574
+      percentile_50: 760.2956705385427
+      percentile_99: 950.3695881731784
+    middle:
+      percentile_1: 501.58394931362193
+      percentile_50: 501.58394931362193
+      percentile_99: 501.58394931362193
+  владимир:
+    junior:
+      percentile_1: 476.2407602956705
+      percentile_50: 527.9831045406547
+      percentile_99: 592.661034846885
+    middle:
+      percentile_1: 599.2608236536431
+      percentile_50: 857.9725448785639
+      percentile_99: 1116.6842661034846
+  волгоград:
+    junior:
+      percentile_1: 398.20485744456175
+      percentile_50: 527.9831045406547
+      percentile_99: 839.5195353748679
+    lead:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+    middle:
+      percentile_1: 397.04329461457235
+      percentile_50: 397.04329461457235
+      percentile_99: 397.04329461457235
+  вологда:
+    junior:
+      percentile_1: 412.46040126715945
+      percentile_50: 443.50580781414993
+      percentile_99: 474.5512143611404
+  воронеж:
+    junior:
+      percentile_1: 516.6314677930305
+      percentile_50: 659.9788806758183
+      percentile_99: 912.3284054910242
+    lead:
+      percentile_1: 857.9725448785639
+      percentile_50: 857.9725448785639
+      percentile_99: 857.9725448785639
+    middle:
+      percentile_1: 577.3495248152059
+      percentile_50: 577.3495248152059
+      percentile_99: 577.3495248152059
+  екатеринбург:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 583.4213305174235
+      percentile_99: 1680.3062302006329
+    lead:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+    middle:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+    senior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+  иваново:
+    junior:
+      percentile_1: 399.1552270327349
+      percentile_50: 554.3822597676874
+      percentile_99: 730.3062302006335
+  ижевск:
+    junior:
+      percentile_1: 382.9989440337909
+      percentile_50: 501.58394931362193
+      percentile_99: 604.8046462513199
+  иркутск:
+    junior:
+      percentile_1: 346.04012671594506
+      percentile_50: 527.9831045406547
+      percentile_99: 829.9894403379091
+    senior:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+  йошкар-ола:
+    junior:
+      percentile_1: 488.3843717001056
+      percentile_50: 488.3843717001056
+      percentile_99: 488.3843717001056
+  казань:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 666.5786694825765
+      percentile_99: 841.4202745512143
+    senior:
+      percentile_1: 1049.3664202745513
+      percentile_50: 1049.3664202745513
+      percentile_99: 1049.3664202745513
+  калининград:
+    junior:
+      percentile_1: 449.76240760295667
+      percentile_50: 527.9831045406547
+      percentile_99: 828.0095036958818
+  калуга:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 512.1436114044351
+      percentile_99: 733.2629355860612
+  кемерово:
+    junior:
+      percentile_1: 396.62090813093977
+      percentile_50: 411.8268215417107
+      percentile_99: 654.6990496304118
+    middle:
+      percentile_1: 395.987328405491
+      percentile_50: 395.987328405491
+      percentile_99: 395.987328405491
+  киров:
+    junior:
+      percentile_1: 331.57338965153116
+      percentile_50: 411.8268215417107
+      percentile_99: 459.34530095036956
+  краснодар:
+    junior:
+      percentile_1: 324.973600844773
+      percentile_50: 527.9831045406547
+      percentile_99: 1218.0570221752905
+    lead:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+    middle:
+      percentile_1: 798.5744456177403
+      percentile_50: 798.5744456177403
+      percentile_99: 798.5744456177403
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  красноярск:
+    junior:
+      percentile_1: 375.34846884899684
+      percentile_50: 659.9788806758183
+      percentile_99: 1296.726504751848
+    senior:
+      percentile_1: 1451.9535374868003
+      percentile_50: 1451.9535374868003
+      percentile_99: 1451.9535374868003
+  курск:
+    junior:
+      percentile_1: 396.77930306230195
+      percentile_50: 628.5638859556493
+      percentile_99: 822.9936642027455
+  липецк:
+    junior:
+      percentile_1: 416.0506863780359
+      percentile_50: 527.9831045406547
+      percentile_99: 586.779303062302
+  минск:
+    junior:
+      percentile_1: 426.1538461538462
+      percentile_50: 615.3846153846154
+      percentile_99: 839.2615384615385
+  москва:
+    director:
+      percentile_1: 2500.0
+      percentile_50: 2500.0
+      percentile_99: 2500.0
+    intern:
+      percentile_1: 430.30623020063354
+      percentile_50: 818.3738120380146
+      percentile_99: 1206.4413938753958
+    junior:
+      percentile_1: 316.78986272439283
+      percentile_50: 802.5343189017951
+      percentile_99: 2238.648363252381
+    lead:
+      percentile_1: 791.974656810982
+      percentile_50: 1531.1510031678986
+      percentile_99: 2235.4804646251314
+    middle:
+      percentile_1: 609.2925026399156
+      percentile_50: 1161.5628299894404
+      percentile_99: 1797.7824709609292
+    senior:
+      percentile_1: 723.1256599788807
+      percentile_50: 1319.9577613516367
+      percentile_99: 1950.559662090813
+  набережные челны:
+    junior:
+      percentile_1: 397.09609292502637
+      percentile_50: 578.1414994720169
+      percentile_99: 1037.4868004223865
+  нижний новгород:
+    junior:
+      percentile_1: 399.9472016895459
+      percentile_50: 613.7803590285112
+      percentile_99: 914.0707497360085
+  новосибирск:
+    junior:
+      percentile_1: 399.9472016895459
+      percentile_50: 587.3812038014784
+      percentile_99: 1682.946145723337
+    middle:
+      percentile_1: 594.9049630411827
+      percentile_50: 640.1795142555438
+      percentile_99: 685.454065469905
+  омск:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 459.34530095036956
+      percentile_99: 683.7381203801478
+    lead:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    middle:
+      percentile_1: 712.7771911298838
+      percentile_50: 712.7771911298838
+      percentile_99: 712.7771911298838
+  оренбург:
+    junior:
+      percentile_1: 399.5113516367476
+      percentile_50: 599.2608236536431
+      percentile_99: 840.6282998944033
+  пенза:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 593.9809926082365
+      percentile_99: 722.9672650475184
+    lead:
+      percentile_1: 989.7703273495248
+      percentile_50: 989.7703273495248
+      percentile_99: 989.7703273495248
+  пермь:
+    junior:
+      percentile_1: 404.69904963041176
+      percentile_50: 541.1826821541711
+      percentile_99: 1100.1847940865891
+    lead:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+    middle:
+      percentile_1: 1069.1657866948258
+      percentile_50: 1069.1657866948258
+      percentile_99: 1069.1657866948258
+  ростов:
+    junior:
+      percentile_1: 403.7486800422386
+      percentile_50: 527.9831045406547
+      percentile_99: 840.3379091869059
+    lead:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+    middle:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+    senior:
+      percentile_1: 580.7814149947202
+      percentile_50: 580.7814149947202
+      percentile_99: 580.7814149947202
+  рязань:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 488.3843717001056
+      percentile_99: 684.2661034846885
+    lead:
+      percentile_1: 644.1393875395987
+      percentile_50: 644.1393875395987
+      percentile_99: 644.1393875395987
+  самара:
+    junior:
+      percentile_1: 422.3864836325237
+      percentile_50: 493.03062302006333
+      percentile_99: 929.7782470960927
+    lead:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+    middle:
+      percentile_1: 485.7708553326293
+      percentile_50: 487.06441393875394
+      percentile_99: 488.3579725448786
+  санкт-петербург:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 739.1763463569166
+      percentile_99: 1182.0221752903897
+    lead:
+      percentile_1: 769.5353748680042
+      percentile_50: 1003.1678986272439
+      percentile_99: 1463.8331573389653
+    senior:
+      percentile_1: 787.0116156282999
+      percentile_50: 1319.9577613516367
+      percentile_99: 1708.025343189018
+  саратов:
+    junior:
+      percentile_1: 413.51636747624076
+      percentile_50: 527.9831045406547
+      percentile_99: 804.1182682154171
+  симферополь:
+    middle:
+      percentile_1: 554.3822597676874
+      percentile_50: 554.3822597676874
+      percentile_99: 554.3822597676874
+  смоленск:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  сочи:
+    junior:
+      percentile_1: 452.48152059134105
+      percentile_50: 633.5797254487857
+      percentile_99: 814.6779303062301
+  ставрополь:
+    junior:
+      percentile_1: 411.8268215417107
+      percentile_50: 527.9831045406547
+      percentile_99: 596.261879619852
+  тбилиси:
+    junior:
+      percentile_1: 649.1618022808949
+      percentile_50: 649.1618022808949
+      percentile_99: 649.1618022808949
+  тверь:
+    junior:
+      percentile_1: 397.83526927138325
+      percentile_50: 488.3843717001056
+      percentile_99: 537.5395987328405
+  тольятти:
+    junior:
+      percentile_1: 439.7439281942978
+      percentile_50: 617.0802534318902
+      percentile_99: 659.9788806758183
+  томск:
+    junior:
+      percentile_1: 463.3051742344245
+      percentile_50: 527.9831045406547
+      percentile_99: 631.467793030623
+  тула:
+    junior:
+      percentile_1: 460.29567053854277
+      percentile_50: 633.5797254487857
+      percentile_99: 659.9788806758183
+  тюмень:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 527.9831045406547
+      percentile_99: 1872.2280887011614
+    senior:
+      percentile_1: 452.8775079197465
+      percentile_50: 653.3790918690602
+      percentile_99: 853.8806758183738
+  ульяновск:
+    junior:
+      percentile_1: 528.5110876451954
+      percentile_50: 554.3822597676874
+      percentile_99: 580.2534318901795
+  уфа:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 620.3801478352693
+      percentile_99: 913.6747624076029
+    lead:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+  хабаровск:
+    junior:
+      percentile_1: 412.2228088701162
+      percentile_50: 591.6050686378036
+      percentile_99: 783.2365364308341
+    lead:
+      percentile_1: 1161.5628299894404
+      percentile_50: 1161.5628299894404
+      percentile_99: 1161.5628299894404
+  чебоксары:
+    junior:
+      percentile_1: 411.8268215417107
+      percentile_50: 488.3843717001056
+      percentile_99: 628.922914466737
+  челябинск:
+    junior:
+      percentile_1: 344.77296726504755
+      percentile_50: 527.9831045406547
+      percentile_99: 962.6451953537486
+  ярославль:
+    junior:
+      percentile_1: 397.09609292502637
+      percentile_50: 593.9809926082365
+      percentile_99: 845.9609292502639
+Technical Lead:
+  алматы:
+    senior:
+      percentile_1: 1174.463532686595
+      percentile_50: 1467.1056731548224
+      percentile_99: 1759.74781362305
+  барнаул:
+    lead:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  волгоград:
+    senior:
+      percentile_1: 395.987328405491
+      percentile_50: 395.987328405491
+      percentile_99: 395.987328405491
+  воронеж:
+    director:
+      percentile_1: 2639.9155227032734
+      percentile_50: 2639.9155227032734
+      percentile_99: 2639.9155227032734
+    lead:
+      percentile_1: 928.986272439282
+      percentile_50: 1174.7624076029567
+      percentile_99: 1420.5385427666315
+  екатеринбург:
+    director:
+      percentile_1: 2059.134107708553
+      percentile_50: 2059.134107708553
+      percentile_99: 2059.134107708553
+    lead:
+      percentile_1: 2059.134107708553
+      percentile_50: 2059.134107708553
+      percentile_99: 2059.134107708553
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  иркутск:
+    lead:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  казань:
+    lead:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+    senior:
+      percentile_1: 2375.923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 2375.923970432946
+  калининград:
+    lead:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+    senior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  киров:
+    senior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  краснодар:
+    lead:
+      percentile_1: 1203.8014783526928
+      percentile_50: 2375.923970432946
+      percentile_99: 3907.0749736008447
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  липецк:
+    senior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  минск:
+    lead:
+      percentile_1: 1935.3461538461538
+      percentile_50: 2536.5384615384614
+      percentile_99: 3137.7307692307695
+  москва:
+    lead:
+      percentile_1: 1237.5923970432946
+      percentile_50: 2375.923970432946
+      percentile_99: 5221.752903907075
+    middle:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+    senior:
+      percentile_1: 1359.8204857444562
+      percentile_50: 2771.911298838437
+      percentile_99: 3925.5543822597674
+  набережные челны:
+    senior:
+      percentile_1: 3299.8944033790917
+      percentile_50: 3299.8944033790917
+      percentile_99: 3299.8944033790917
+  нижний новгород:
+    lead:
+      percentile_1: 1359.5564941921857
+      percentile_50: 3299.8944033790917
+      percentile_99: 5240.232312565998
+    senior:
+      percentile_1: 998.5480464625132
+      percentile_50: 1418.9545934530095
+      percentile_99: 1839.3611404435057
+  новосибирск:
+    junior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+    lead:
+      percentile_1: 1847.9408658922914
+      percentile_50: 1847.9408658922914
+      percentile_99: 1847.9408658922914
+  рязань:
+    senior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  санкт-петербург:
+    director:
+      percentile_1: 2006.3357972544877
+      percentile_50: 2006.3357972544877
+      percentile_99: 2006.3357972544877
+    junior:
+      percentile_1: 686.3780359028511
+      percentile_50: 686.3780359028511
+      percentile_99: 686.3780359028511
+    lead:
+      percentile_1: 1982.5765575501582
+      percentile_50: 2111.932418162619
+      percentile_99: 3276.135163674762
+    senior:
+      percentile_1: 1532.7349524815206
+      percentile_50: 1649.9472016895459
+      percentile_99: 4532.73495248152
+  ставрополь:
+    lead:
+      percentile_1: 2111.932418162619
+      percentile_50: 2111.932418162619
+      percentile_99: 2111.932418162619
+  ташкент:
+    junior:
+      percentile_1: 1571.9538285721471
+      percentile_50: 1571.9538285721471
+      percentile_99: 1571.9538285721471
+    senior:
+      percentile_1: 2456.17785714398
+      percentile_50: 2456.17785714398
+      percentile_99: 2456.17785714398
+  тюмень:
+    senior:
+      percentile_1: 2184.662090813094
+      percentile_50: 2514.5195353748677
+      percentile_99: 2844.376979936642
+  уфа:
+    lead:
+      percentile_1: 3959.87328405491
+      percentile_50: 3959.87328405491
+      percentile_99: 3959.87328405491
+    senior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+  хабаровск:
+    lead:
+      percentile_1: 2323.125659978881
+      percentile_50: 2323.125659978881
+      percentile_99: 2323.125659978881
+  челябинск:
+    lead:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+    middle:
+      percentile_1: 871.1721224920802
+      percentile_50: 871.1721224920802
+      percentile_99: 871.1721224920802
+Technical writer:
+  казань:
+    junior:
+      percentile_1: 1288.2787750791974
+      percentile_50: 1288.2787750791974
+      percentile_99: 1288.2787750791974
+  минск:
+    senior:
+      percentile_1: 461.53846153846155
+      percentile_50: 461.53846153846155
+      percentile_99: 461.53846153846155
+  москва:
+    junior:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1475.1847940865894
+  санкт-петербург:
+    junior:
+      percentile_1: 1583.949313621964
+      percentile_50: 1583.949313621964
+      percentile_99: 1583.949313621964
+Trader:
+  москва:
+    junior:
+      percentile_1: 395.987328405491
+      percentile_50: 395.987328405491
+      percentile_99: 395.987328405491
+UI/UX Designer:
+  алматы:
+    junior:
+      percentile_1: 1298.3236045617898
+      percentile_50: 1298.3236045617898
+      percentile_99: 1298.3236045617898
+  астана:
+    junior:
+      percentile_1: 363.53060927730115
+      percentile_50: 363.53060927730115
+      percentile_99: 363.53060927730115
+  барнаул:
+    junior:
+      percentile_1: 661.9588173178458
+      percentile_50: 758.9757127771911
+      percentile_99: 855.9926082365364
+  екатеринбург:
+    junior:
+      percentile_1: 1188.2259767687433
+      percentile_50: 1201.1615628299894
+      percentile_99: 1214.0971488912355
+  иркутск:
+    junior:
+      percentile_1: 923.9704329461457
+      percentile_50: 923.9704329461457
+      percentile_99: 923.9704329461457
+  казань:
+    senior:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  краснодар:
+    junior:
+      percentile_1: 739.1763463569166
+      percentile_50: 739.1763463569166
+      percentile_99: 739.1763463569166
+  красноярск:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+    middle:
+      percentile_1: 950.3695881731784
+      percentile_50: 950.3695881731784
+      percentile_99: 950.3695881731784
+  москва:
+    junior:
+      percentile_1: 498.416050686378
+      percentile_50: 1319.9577613516367
+      percentile_99: 1736.0084477296725
+    middle:
+      percentile_1: 669.2185850052798
+      percentile_50: 1121.9640971488911
+      percentile_99: 1574.7096092925026
+    senior:
+      percentile_1: 1060.7180570221753
+      percentile_50: 1583.949313621964
+      percentile_99: 3841.077085533263
+  новосибирск:
+    junior:
+      percentile_1: 669.2185850052798
+      percentile_50: 1121.9640971488911
+      percentile_99: 1574.7096092925026
+    lead:
+      percentile_1: 1979.936642027455
+      percentile_50: 1979.936642027455
+      percentile_99: 1979.936642027455
+  самара:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  санкт-петербург:
+    junior:
+      percentile_1: 323.12565997888066
+      percentile_50: 593.9809926082365
+      percentile_99: 788.014783526927
+    middle:
+      percentile_1: 1061.246040126716
+      percentile_50: 1319.9577613516367
+      percentile_99: 1578.6694825765574
+  тула:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  ульяновск:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  челябинск:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+  ярославль:
+    junior:
+      percentile_1: 659.9788806758183
+      percentile_50: 659.9788806758183
+      percentile_99: 659.9788806758183
+Wordpress developer:
+  москва:
+    junior:
+      percentile_1: 1055.9662090813094
+      percentile_50: 1055.9662090813094
+      percentile_99: 1055.9662090813094
+    middle:
+      percentile_1: 1319.9577613516367
+      percentile_50: 1319.9577613516367
+      percentile_99: 1319.9577613516367
+  санкт-петербург:
+    junior:
+      percentile_1: 791.974656810982
+      percentile_50: 791.974656810982
+      percentile_99: 791.974656810982
+  ташкент:
+    junior:
+      percentile_1: 1500.0
+      percentile_50: 1500.0
+      percentile_99: 1500.0
+  тбилиси:
+    senior:
+      percentile_1: 2500.0
+      percentile_50: 2500.0
+      percentile_99: 2500.0

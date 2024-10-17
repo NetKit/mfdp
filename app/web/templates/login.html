@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}Login{% endblock %}
+
+{% block content %}
+<div class="d-flex align-items-center justify-content-center min-vh-100 bg-light">
+    <div class="card shadow-sm w-100" style="max-width: 400px;">
+        <div class="card-header bg-primary text-white py-3">
+            <h2 class="h4 mb-0 text-center">Login</h2>
+        </div>
+        <div class="card-body p-4">
+            <form id="login-form" action="/token" method="post">
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="text" name="email" id="email" required class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" name="password" id="password" required class="form-control">
+                </div>
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary">
+                        Login
+                    </button>
+                </div>
+            </form>
+            <a href="/register" class="d-block mt-3 text-center">Create an account</a>
+        </div>
+        <div id="message" class="card-footer"></div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+{% endblock %}

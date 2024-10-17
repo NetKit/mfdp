@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}Register{% endblock %}
+
+{% block content %}
+<div class="d-flex align-items-center justify-content-center min-vh-100" style="background-color: rgba(173, 216, 230, 0.1);">
+    <div class="card shadow-sm w-100" style="max-width: 400px;">
+        <div class="card-header" style="background-color: rgba(173, 216, 230, 0.5); color: rgba(255, 165, 0, 1); padding-top: 1rem; padding-bottom: 1rem;"
+            <h2 class="h4 mb-0 text-center">Register</h2>
+        </div>
+        <div class="card-body p-4">
+            <form id="register-form" action="/register" method="post">
+                <div class="mb-3">
+                    <label for="company_name" class="form-label">Company Name</label>
+                    <input type="text" name="company_name" id="company_name" required class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label for="username" class="form-label">Username</label>
+                    <input type="text" name="username" id="username" required class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="text" name="email" id="email" required class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" name="password" id="password" required class="form-control">
+                </div>
+                <div class="d-grid">
+                    <button type="submit" class="btn" style="background-color: rgba(255, 165, 0, 0.5); color: rgba(255, 165, 0, 1);">
+                        Register
+                    </button>
+                </div>
+            </form>
+        </div>
+        <div id="message" class="card-footer"></div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+{% endblock %}

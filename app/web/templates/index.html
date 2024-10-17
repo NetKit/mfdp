@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block title %}Vacancies{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Active vacancies</h1>
+    <div class="d-flex justify-content-end mb-3">
+        <a href="/vacancies/create" class="btn btn-primary">Create New Vacancy</a>
+    </div>
+    <div id="vacancy-form-container"></div>
+    <ul class="list-group">
+        {% for vacancy in vacancies %}
+        <li class="list-group-item">
+            <h5>{{ vacancy.title }}</h5>
+            <p>{{ vacancy.description }}</p>
+            {% if vacancy.requirements %}
+            <p><strong>Requirements:</strong> {{ vacancy.requirements|join(', ') }}</p>
+            {% endif %}
+            {% if vacancy.required_years_of_experience %}
+            <p><strong>Required Years of Experience:</strong> {{ vacancy.required_years_of_experience }}</p>
+            {% endif %}
+            {% if vacancy.salary %}
+            <p><strong>Salary:</strong> {{ vacancy.salary }}$</p>
+            {% endif %}
+            {% if vacancy.role %}
+            <p><strong>Role:</strong> {{ vacancy.role }}</p>
+            {% endif %}
+            {% if vacancy.location %}
+            <p><strong>Location:</strong> {{ vacancy.location }}</p>
+            {% endif %}
+            {% if vacancy.role and vacancy.location and vacancy.seniority %}
+            <p><strong>Median salary for role and location:</strong> {{ salary_percentiles.get(vacancy.role, {}).get(vacancy.location, {}).get(vacancy.seniority, {}).get('percentile_50', 0.0) | round }}
+            {% endif %}
+            {% if vacancy.estimated_salary %}
+            <p><strong>Estimated salary based on vacancy parameters:</strong> {{ vacancy.estimated_salary }}$</p>
+            {% endif %}
+            <form action="/vacancies/{{ vacancy.id }}/delete" method="post" class="mt-2">
+                <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this vacancy?')">Delete Vacancy</button>
+            </form>
+        </li>
+        {% else %}
+        <li class="list-group-item">No vacancies available at the moment.</li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+{% endblock %}

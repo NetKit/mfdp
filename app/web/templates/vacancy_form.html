@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block title %}Create vacancy{% endblock %}
+
+{% block content %}
+
+<h2 class="mb-4">Create New Vacancy</h2>
+<form action="/vacancies/create" method="post" class="mb-4">
+    <div class="mb-3">
+        <label for="title" class="form-label">Title</label>
+        <input type="text" class="form-control" id="title" name="title" required>
+    </div>
+    <div class="mb-3">
+        <label for="description" class="form-label">Description</label>
+        <textarea class="form-control" id="description" name="description" rows="3"></textarea>
+    </div>
+    <div class="mb-3">
+        <label for="requirements" class="form-label">Requirements (comma-separated)</label>
+        <input type="text" class="form-control" id="requirements" name="requirements">
+    </div>
+    <div class="mb-3">
+        <label for="role" class="form-label">Role</label>
+        <select class="form-select" id="role" name="role" required>
+            {% for role in available_roles %}
+                <option value="{{ role }}">{{ role }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="location" class="form-label">Location</label>
+        <select class="form-select" id="location" name="location" required>
+            {% for location in available_locations %}
+                <option value="{{ location }}">{{ location }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="seniority" class="form-label">Seniority</label>
+        <select class="form-select" id="seniority" name="seniority" required>
+            {% for seniority in available_seniorities %}
+                <option value="{{ seniority }}">{{ seniority }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="salary" class="form-label">Salary USD</label>
+        <input type="number" class="form-control" id="salary" name="salary" min="0" step="100">
+    </div>
+    <div class="mb-3">
+        <label for="required_years_of_experience" class="form-label">Required Years of Experience</label>
+        <input type="number" class="form-control" id="required_years_of_experience" name="required_years_of_experience" min="0" step="1">
+    </div>
+    <button type="submit" class="btn btn-primary">Create Vacancy</button>
+</form>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+{% endblock %}

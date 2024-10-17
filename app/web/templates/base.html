@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Your App{% endblock %}</title>
+    <script src="https://cdn.jsdelivr.net/npm/@floating-ui/core@1.6.4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.6.7"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://unpkg.com/htmx.org@2.0.1" integrity="sha384-QWGpdj554B4ETpJC9z+ZHJcA/i59TyjxEPXiiUgN2WmTyV5OEZWCD6gQhgkdpB/" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/htmx.org@1.9.12/dist/ext/json-enc.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/prismjs@1.24.1/themes/prism.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/prismjs@1.24.1/themes/prism-okaidia.css" rel="stylesheet" />
+    <script src="/static/js/auth.js"></script>
+    <title>Model Marketplace</title>
+</head>
+<body class="min-vh-100" style="background-color: white;">
+    {% if alert %}
+        <div class="alert alert-{{ alert.type }} alert-dismissible fade show" role="alert">
+            {{ alert.message }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    {% endif %}
+    {% if request.url.path != "/login" and request.url.path != "/register" %}
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: lightblue;">
+        <div class="container">
+            <a href="/" class="navbar-brand fs-4 fw-bold">Matcher</a>
+            <div>
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
+                    {% if user %}
+                    <li class="nav-item"><a href="/logout" class="nav-link" hx-post="/logout" hx-target="body">Logout</a></li>
+                    {% else %}
+                    <li class="nav-item"><a href="/login" class="nav-link">Login</a></li>
+                    {% endif %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+    {% endif %}
+    <main class="{% if request.url.path != '/login' %}container mt-4 p-4{% else %}min-vh-100{% endif %}">
+        {% block content %}{% endblock %}
+    </main>
+    {% block scripts %}
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.24.1/prism.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.24.1/components/prism-json.min.js"></script>
+    <script>
+        document.body.addEventListener('htmx:responseError', function(evt) {
+            if (evt.detail.xhr.status === 401) {
+                window.location.href = '/login';
+            }
+        });
+    </script>
+    {% endblock %}
+</body>
+</html>

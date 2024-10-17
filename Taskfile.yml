@@ -12,7 +12,33 @@ tasks:
       - alembic check
   create-migration:
     desc: "Create a new database migration with a specified name"
-    vars:
-      MIGRATION_NAME: "default_migration"
     cmds:
-      - alembic revision --autogenerate -m "{{.MIGRATION_NAME}}"
+      - alembic revision --autogenerate -m "{{.CLI_ARGS}}"
+  migrate:
+    desc: "Migrate local database"
+    cmds:
+      - alembic upgrade head
+  lint:
+    desc: "Run ruff linter"
+    cmds:
+      - ruff check .
+  lint-fix:
+    desc: "Automatically fix linting issues"
+    cmds:
+      - ruff check . --fix
+  format:
+    desc: "Run ruff format"
+    cmds:
+      - ruff format .
+  run-app:
+    desc: "Run app in dev mode"
+    cmds:
+      - uvicorn app.main:app --reload --port 3000
+  run-bot:
+    desc: "Run bot in dev mode"
+    cmds:
+      - python runner.py bot
+  run-worker:
+    desc: "Run worker in dev mode"
+    cmds:
+      - python -m pgqueuer run app.workers.run_worker
